@@ -1,0 +1,34 @@
+/jquery.nicescroll*.js
+/jquery.smoothscroll*.js
+/jquery.smooth-scroll*.js
+/jquery-smoothscroll*.js
+/jquery-smooth-scroll*.js
+/nicescroll*.js
+/smoothscroll*.js
+/smooth-scroll*.js
+/mousewheel-smooth-scroll
+/surbma-smooth-scroll
+themes/logistic/scripts/*.js
+/dexp-smoothscroll.js
+
+!! right-click blockers
+/disablerightclick.
+/no-right-click-images-plugin/*$script
+/norightclick.
+/right-click-disable
+/plugins/CopyRightPro
+
+!! browser rejection
+!/jquery.reject*.js
+! this blocks jquery.reject.js, but without risk of breaking other JS
+##div>#jr_overlay
+##div>#jr_wrap
+/plugins/advanced-browser-check/*
+
+trashbox.ru##.div_aj_top4_as
+reddit.com#?#div:-abp-has(> span:-abp-contains(pride))
+##.DirectController_exp_separate-block
+whatismybrowser.com##+js(brave-fix)
+extensions.gnome.org##.info.message
+androidauthority.com##.--___*.--
+dzen.ru##[style*="_theme_white"]:style(filter:none!important;)
