@@ -1,0 +1,29 @@
+[
+{	
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?trueachievements\\.com[^\\.][/:]?"
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "lb_holder"
+	}
+},
+{
+	"trigger": {
+            "url-filter": "^[^:]+:(//)?([^/]+\\.)?trueachievements\\.com[^\\.][/:]?"
+        },
+        "action": {
+            "type": "css-display-none",
+            "selector": "[id^=\"nn_lb1\"]"
+        }
+},
+{
+	"trigger": {
+            "url-filter": "^[^:]+:(//)?([^/]+\\.)?trueachievements\\.com[^\\.][/:]?"
+        },
+        "action": {
+            "type": "css-display-none",
+            "selector": "[class^=\"lb_holder\"]"
+        }
+},
+]
