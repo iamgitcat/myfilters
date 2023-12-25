@@ -25,5 +25,5 @@
             "type": "css-display-none",
             "selector": "[class^=\"lb_holder\"]"
         }
-},
+}
 ]
