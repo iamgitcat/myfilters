@@ -33,6 +33,6 @@ extensions.gnome.org##.info.message
 androidauthority.com##.--___*.--
 dzen.ru##[style*="_theme_white"]:style(filter:none!important;)
 ##div.description.m-lr.mb-2.card-body.shadow.card
-4pda.to###logostrip
+
 ya.ru##.DirectController_exp_separate-block
 @@||yandex-images.clstorage.net^$image,domain=yandex.ru
