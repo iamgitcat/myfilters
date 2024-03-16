@@ -36,3 +36,4 @@ dzen.ru##[style*="_theme_white"]:style(filter:none!important;)
 
 ya.ru##.DirectController_exp_separate-block
 @@||yandex-images.clstorage.net^$image,domain=yandex.ru
+imginn.com##.block-sulvo
