@@ -1,4 +1,4 @@
-! Title: My rare rules
+! Title: Some more rules
 ! Expires: 3 days
 ! Description: Some custom rules, you probably won't need them
 
