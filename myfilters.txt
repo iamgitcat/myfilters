@@ -1,3 +1,7 @@
+! Title: My rare rules
+! Expires: 3 days
+! Description: Some custom rules, you probably won't need them
+
 /jquery.nicescroll*.js
 /jquery.smoothscroll*.js
 /jquery.smooth-scroll*.js
