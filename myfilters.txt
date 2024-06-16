@@ -2,6 +2,7 @@
 ! Expires: 3 days
 ! Description: Some custom rules, you probably won't need them
 
+
 /jquery.nicescroll*.js
 /jquery.smoothscroll*.js
 /jquery.smooth-scroll*.js
@@ -42,7 +43,9 @@ ya.ru##.DirectController_exp_separate-block
 @@||yandex-images.clstorage.net^$image,domain=yandex.ru
 imginn.com##.block-sulvo
 
-www.wotstars.com###root > div:nth-of-type(5)
+wotstars.com###root > div.hide-from-supporters:nth-child(5)
+wotstars.com###root > div:nth-child(6)
+reports.adguard.com###app > div.report.report--ok > div.report__in:last-child > div.report__left:first-child > div.report__download.hello_from_adguard_apps.report__download--visible:last-child
 
 !! It is a sublist of Yet another small uBlock filter list
 ! See https://github.com/mtxadmin/ublock for details
