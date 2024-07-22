@@ -48,3 +48,4 @@ wotstars.com###root > div:nth-child(6)
 reports.adguard.com###app > div.report.report--ok > div.report__in:last-child > div.report__left:first-child > div.report__download.hello_from_adguard_apps.report__download--visible:last-child
 
 cdn-widget.grattis.ru
+kakoysegodnyaprazdnik.ru##.footer_info
