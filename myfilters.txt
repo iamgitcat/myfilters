@@ -40,7 +40,6 @@ dzen.ru##[style*="_theme_white"]:style(filter:none!important;)
 ##div.description.m-lr.mb-2.card-body.shadow.card
 
 ya.ru##.DirectController_exp_separate-block
-@@||yandex-images.clstorage.net^$image,domain=yandex.ru
 imginn.com##.block-sulvo
 
 wotstars.com###root > div.hide-from-supporters:nth-child(5)
