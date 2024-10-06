@@ -1,7 +1,7 @@
 ! Title: Some more rules
 ! Expires: 1 days
 ! Description: Some custom rules, you probably won't need them
-
+! test
 
 /jquery.nicescroll*.js
 /jquery.smoothscroll*.js
