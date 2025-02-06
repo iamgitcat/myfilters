@@ -49,3 +49,5 @@ reports.adguard.com###app > div.report.report--ok > div.report__in:last-child > 
 
 cdn-widget.grattis.ru
 kakoysegodnyaprazdnik.ru##.footer_info
+
+challonge.com##div.redesign-wrapper:nth-child(5) > div.redesign-flex-row:nth-child(6) > div.redesign-content:last-child > div.redesign-inline-cake:nth-child(4)
