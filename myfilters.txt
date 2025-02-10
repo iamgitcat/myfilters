@@ -52,6 +52,8 @@ kakoysegodnyaprazdnik.ru##.footer_info
 
 challonge.com##div.redesign-wrapper:nth-child(5) > div.redesign-flex-row:nth-child(6) > div.redesign-content:last-child > div.redesign-inline-cake:nth-child(4)
 
+market.yandex.ru##._2Tzwi.ZsYYO
 fluxpro.art##.p-2.md\:-4
-
-
+roskomsvoboda.org##.donate
+trashbox.ru##.div_top_hubs_block
+trashbox.ru##.div_daily_software_block
