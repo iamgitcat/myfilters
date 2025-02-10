@@ -51,3 +51,7 @@ cdn-widget.grattis.ru
 kakoysegodnyaprazdnik.ru##.footer_info
 
 challonge.com##div.redesign-wrapper:nth-child(5) > div.redesign-flex-row:nth-child(6) > div.redesign-content:last-child > div.redesign-inline-cake:nth-child(4)
+
+fluxpro.art###__next > div.group\/sidebar-wrapper.flex.min-h-svh.w-full.has-\[\[data-variant\=inset\]\]\:bg-sidebar:nth-child(3) > main.__className_74ddaf.w-full.my-4:last-child > div.mx-2.md\:mx-4:last-child > div.p-2.md\:-4:first-child > div.max-w-2xl.mx-auto.bg-zinc-800.rounded.p-4.mb-4
+fluxpro.art###__next > div.group\/sidebar-wrapper.flex.min-h-svh.w-full.has-\[\[data-variant\=inset\]\]\:bg-sidebar:nth-child(2) > main.__className_74ddaf.w-full.my-4:last-child > div.mx-2.md\:mx-4:last-child > div.p-2.md\:-4:first-child > div.max-w-2xl.mx-auto.bg-zinc-800.rounded.p-4.mb-4
+
