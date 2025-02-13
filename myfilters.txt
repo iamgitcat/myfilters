@@ -61,3 +61,4 @@ iksweb.ru##.advertising-elements
 iksweb.ru##.apv
 www.hacking.reviews##.lazyload
 pingvinus.ru##.bordered.section-mt.subscribers-topline
+pingvinus.ru##.bordered.section-mt.subscribers-topline
