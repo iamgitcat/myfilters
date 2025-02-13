@@ -52,8 +52,11 @@ kakoysegodnyaprazdnik.ru##.footer_info
 
 challonge.com##div.redesign-wrapper:nth-child(5) > div.redesign-flex-row:nth-child(6) > div.redesign-content:last-child > div.redesign-inline-cake:nth-child(4)
 
-market.yandex.ru##._2Tzwi.ZsYYO
-
 roskomsvoboda.org##.donate
 trashbox.ru##.div_top_hubs_block
 trashbox.ru##.div_daily_software_block
+
+www.ixbt.com##.b-block.b-block__conflist.b-lined-title.video-slider-block
+iksweb.ru##.advertising-elements
+iksweb.ru##.apv
+www.hacking.reviews##.lazyload
