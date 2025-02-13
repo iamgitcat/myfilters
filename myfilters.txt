@@ -62,3 +62,5 @@ iksweb.ru##.apv
 www.hacking.reviews##.lazyload
 pingvinus.ru##.bordered.section-mt.subscribers-topline
 pingvinus.ru##.bordered.section-mt.subscribers-topline
+# Добавить содержимое в конец файла
+echo "$content" >> myfilters.txt
