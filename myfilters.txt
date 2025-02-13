@@ -64,5 +64,3 @@ pingvinus.ru##.bordered.section-mt.subscribers-topline
 pingvinus.ru##.bordered.section-mt.subscribers-topline
 # Добавить содержимое в конец файла
 echo "$content" >> myfilters.txt
-# Добавить содержимое в конец файла
-echo "$content" >> myfilters.txt
