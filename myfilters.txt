@@ -60,3 +60,4 @@ www.ixbt.com##.b-block.b-block__conflist.b-lined-title.video-slider-block
 iksweb.ru##.advertising-elements
 iksweb.ru##.apv
 www.hacking.reviews##.lazyload
+pingvinus.ru##.bordered.section-mt.subscribers-topline
