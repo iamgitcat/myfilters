@@ -61,3 +61,7 @@ iksweb.ru##.advertising-elements
 iksweb.ru##.apv
 www.hacking.reviews##.lazyload
 pingvinus.ru##.bordered.section-mt.subscribers-topline
+
+yandex.ru##.header-b2b__menu-accent-text
+yandex.ru##.link.header-b2b__menu-item
+challonge.com##.footer-line
