@@ -164,3 +164,7 @@
 127.0.0.1 applvn.com
 127.0.0.1 cdn.consentmanager.net
 127.0.0.1 d.delivery.consentmanager.net
+127.0.0.1 kraken.rambler.ru
+127.0.0.1 adservings.ru
+127.0.0.1 app.comagic.ru
+127.0.0.1 counter.sbermarketing.ru
