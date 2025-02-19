@@ -168,3 +168,4 @@
 127.0.0.1 adservings.ru
 127.0.0.1 app.comagic.ru
 127.0.0.1 counter.sbermarketing.ru
+127.0.0.1 beeline.api.flocktory.com
