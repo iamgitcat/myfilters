@@ -75,7 +75,6 @@
 127.0.0.1 mc.webvisor.org
 127.0.0.1 4everland.io
 127.0.0.1 trs.my.to
-127.0.0.1 jacred.my.to
 127.0.0.1 kumo.network-n.com
 127.0.0.1 cdn.consentmanager.mgr.consensu.org
 127.0.0.1 vortex.data.microsoft.com
