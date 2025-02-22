@@ -65,3 +65,9 @@ pingvinus.ru##.bordered.section-mt.subscribers-topline
 yandex.ru##.header-b2b__menu-accent-text
 yandex.ru##.link.header-b2b__menu-item
 challonge.com##.footer-line
+
+yandex.ru##.header-b2b__menu-accent-text
+yandex.ru##.link.header-b2b__menu-item
+challonge.com##.footer-line
+www.apkmirror.com###disqus_recommendations
+www.apkmirror.com##div.listWidget:nth-of-type(1)
