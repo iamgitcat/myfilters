@@ -5,7 +5,6 @@
 127.0.0.1 ingest.us.sentry.io
 127.0.0.1 api.statsig.com
 127.0.0.1 connect-drru.hispace.dbankcloud.ru
-127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 footprints-pa.googleapis.com
@@ -50,7 +49,6 @@
 127.0.0.1 5o8aj5nt.de
 127.0.0.1 api.mindbox.ru
 127.0.0.1 top-fwz1.mail.ru
-127.0.0.1 media-adv.market.yandex.ru
 127.0.0.1 share.flocktory.com
 127.0.0.1 clienttracing-pa.googleapis.com
 127.0.0.1 open-api.spot.im
@@ -72,7 +70,6 @@
 127.0.0.1 33211.ms.vk.com
 127.0.0.1 o4506177936752640.ingest.sentry.io
 127.0.0.1 events.mapbox.com
-127.0.0.1 mc.webvisor.org
 127.0.0.1 4everland.io
 127.0.0.1 trs.my.to
 127.0.0.1 kumo.network-n.com
@@ -87,7 +84,6 @@
 127.0.0.1 23111.ms.vk.com
 127.0.0.1 o4508489006907392.ingest.de.sentry.io
 127.0.0.1 assets.adobedtm.com
-127.0.0.1 fpt.live.com
 127.0.0.1 sp-ao.shortpixel.ai
 127.0.0.1 ih4bsf-conversions.appsflyersdk.com
 127.0.0.1 ih4bsf-inapps.appsflyersdk.com
@@ -95,7 +91,6 @@
 127.0.0.1 g.ezoic.net
 127.0.0.1 dap.digitalgov.gov
 127.0.0.1 cdn.adsninja.ca
-127.0.0.1 crash-reports.browser.yandex.net
 127.0.0.1 gator.volces.com
 127.0.0.1 apmplus.volces.com
 127.0.0.1 apmplus.ap-southeast-1.volces.com
