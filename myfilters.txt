@@ -75,3 +75,4 @@ www.apkmirror.com##div.listWidget:nth-of-type(1)
 3dnews.ru###right-sidebar
 www.ixbt.com##.g-grid_column.g-grid_column__small
 www.cnews.ru##.right_side
+safe.cnews.ru##.right_side
