@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Конвертированные правила из hosts
-! Last modified: 2025-02-21 00:30:42
+! Last modified: 2025-03-01 21:07:40
 ||datacollector-drru.dt.dbankcloud.ru^
 ||appsflyersdk.com^
 ||browser-intake-datadoghq.com^
@@ -8,7 +8,6 @@
 ||ingest.us.sentry.io^
 ||api.statsig.com^
 ||connect-drru.hispace.dbankcloud.ru^
-||report.appmetrica.yandex.net^
 ||firebaselogging-pa.googleapis.com^
 ||googleads.g.doubleclick.net^
 ||footprints-pa.googleapis.com^
@@ -53,7 +52,6 @@
 ||5o8aj5nt.de^
 ||api.mindbox.ru^
 ||top-fwz1.mail.ru^
-||media-adv.market.yandex.ru^
 ||share.flocktory.com^
 ||clienttracing-pa.googleapis.com^
 ||open-api.spot.im^
@@ -75,7 +73,6 @@
 ||33211.ms.vk.com^
 ||o4506177936752640.ingest.sentry.io^
 ||events.mapbox.com^
-||mc.webvisor.org^
 ||4everland.io^
 ||trs.my.to^
 ||kumo.network-n.com^
@@ -90,7 +87,6 @@
 ||23111.ms.vk.com^
 ||o4508489006907392.ingest.de.sentry.io^
 ||assets.adobedtm.com^
-||fpt.live.com^
 ||sp-ao.shortpixel.ai^
 ||ih4bsf-conversions.appsflyersdk.com^
 ||ih4bsf-inapps.appsflyersdk.com^
@@ -98,7 +94,6 @@
 ||g.ezoic.net^
 ||dap.digitalgov.gov^
 ||cdn.adsninja.ca^
-||crash-reports.browser.yandex.net^
 ||gator.volces.com^
 ||apmplus.volces.com^
 ||apmplus.ap-southeast-1.volces.com^
@@ -174,3 +169,8 @@
 ||beeline.api.flocktory.com^
 ||cp.onicon.ru^
 ||o312638.ingest.us.sentry.io^
+||cdn01.nativeroll.tv^
+||o4505318649823232.ingest.sentry.io^
+||mirror.quantum5.ca^
+||attr.appsflyersdk.com^
+||2542116.fls.doubleclick.net^

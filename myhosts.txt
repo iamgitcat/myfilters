@@ -166,3 +166,8 @@
 127.0.0.1 beeline.api.flocktory.com
 127.0.0.1 cp.onicon.ru
 127.0.0.1 o312638.ingest.us.sentry.io
+127.0.0.1 cdn01.nativeroll.tv
+127.0.0.1 o4505318649823232.ingest.sentry.io
+127.0.0.1 mirror.quantum5.ca
+127.0.0.1 attr.appsflyersdk.com
+127.0.0.1 2542116.fls.doubleclick.net
