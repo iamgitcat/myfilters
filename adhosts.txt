@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Конвертированные правила из hosts
-! Last modified: 2025-03-01 21:07:40
+! Last modified: 2025-03-03 07:55:23
 ||datacollector-drru.dt.dbankcloud.ru^
 ||appsflyersdk.com^
 ||browser-intake-datadoghq.com^
@@ -174,3 +174,5 @@
 ||mirror.quantum5.ca^
 ||attr.appsflyersdk.com^
 ||2542116.fls.doubleclick.net^
+||static.ads.brave.com^
+||geo.ads.brave.com^

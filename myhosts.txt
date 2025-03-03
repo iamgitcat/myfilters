@@ -171,3 +171,5 @@
 127.0.0.1 mirror.quantum5.ca
 127.0.0.1 attr.appsflyersdk.com
 127.0.0.1 2542116.fls.doubleclick.net
+127.0.0.1 static.ads.brave.com
+127.0.0.1 geo.ads.brave.com
