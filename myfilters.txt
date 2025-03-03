@@ -1,8 +1,6 @@
 ! Title: Some more rules
 ! Expires: 1 days
 ! Description: Some custom rules, you probably won't need them
-! test
-! test2
 
 /jquery.nicescroll*.js
 /jquery.smoothscroll*.js
@@ -76,3 +74,4 @@ www.apkmirror.com##div.listWidget:nth-of-type(1)
 www.ixbt.com##.g-grid_column.g-grid_column__small
 www.cnews.ru##.right_side
 safe.cnews.ru##.right_side
+##.adfox-container
