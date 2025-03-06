@@ -174,3 +174,5 @@
 127.0.0.1 static.ads.brave.com
 127.0.0.1 geo.ads.brave.com
 127.0.0.1 o130922.ingest.sentry.io
+127.0.0.1 newstat.xiaob.ai
+127.0.0.1 use1-turn.fpjs.io
