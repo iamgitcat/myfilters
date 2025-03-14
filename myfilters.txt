@@ -76,3 +76,9 @@ www.cnews.ru##.right_side
 safe.cnews.ru##.right_side
 ##.adfox-container
 www.seaart.ai##.top-banner
+www.engadget.com##.caas-docked-sda-container.docked-last-active-wrapper
+www.engadget.com##.caas-slotted-rr-sda.wafer-managed
+www.engadget.com##.caas-sticky-sda
+> .caas-container > .caas-body-wrapper > .caas-body-content > .caas-body-inner-wrapper  > .caas-body-content > .caas-body-inner-wrapper > .caas-aside-section.caas-slotted-aside
+www.engadget.com### .caas-container > .caas-body-wrapper > .caas-body-content > .caas-body-inner-wrapper > .caas-aside-section.caas-slotted-aside
+www.engadget.com##.caas-aside-section.caas-slotted-aside
