@@ -178,3 +178,6 @@
 127.0.0.1 use1-turn.fpjs.io
 127.0.0.1 js.monitor.azure.com
 127.0.0.1 mta9-1.directcrm.ru
+127.0.0.1 24112.ms.vk.com
+127.0.0.1 25112.ms.vk.com
+127.0.0.1 23112.ms.vk.com
