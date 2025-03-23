@@ -183,3 +183,4 @@
 127.0.0.1 23112.ms.vk.com
 127.0.0.1 startup-mobile.ap.yandex-net.ru
 127.0.0.1 startup.mobile.yandex.net
+127.0.0.1 js.hs-scripts.com
