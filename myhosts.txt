@@ -177,3 +177,4 @@
 127.0.0.1 newstat.xiaob.ai
 127.0.0.1 use1-turn.fpjs.io
 127.0.0.1 js.monitor.azure.com
+127.0.0.1 mta9-1.directcrm.ru
