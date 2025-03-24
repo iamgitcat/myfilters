@@ -187,3 +187,4 @@
 127.0.0.1 531211.ms.dzen.ru
 127.0.0.1 551211.ms.dzen.ru
 127.0.0.1 541211.ms.dzen.ru
+127.0.0.1 reporting.cdndex.io
