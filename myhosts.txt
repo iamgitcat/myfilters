@@ -191,3 +191,5 @@
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 tracking.ott.yandex.net
 127.0.0.1 files.r00t.us.kg
+127.0.0.1 beyondwickedmapping.org
+127.0.0.1 egv4py1c-android.mobile-messenger.intercom.com
