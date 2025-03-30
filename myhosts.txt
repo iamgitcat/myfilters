@@ -189,3 +189,4 @@
 127.0.0.1 541211.ms.dzen.ru
 127.0.0.1 reporting.cdndex.io
 127.0.0.1 u.startup.mobile.webvisor.com
+127.0.0.1 tracking.ott.yandex.net
