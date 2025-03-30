@@ -190,3 +190,4 @@
 127.0.0.1 reporting.cdndex.io
 127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 tracking.ott.yandex.net
+127.0.0.1 files.r00t.us.kg
