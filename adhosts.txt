@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Конвертированные правила из hosts
-! Last modified: 2025-03-30 12:18:23
+! Last modified: 2025-03-31 08:43:11
 ||datacollector-drru.dt.dbankcloud.ru^
 ||appsflyersdk.com^
 ||browser-intake-datadoghq.com^
@@ -184,15 +184,31 @@
 ||24112.ms.vk.com^
 ||25112.ms.vk.com^
 ||23112.ms.vk.com^
-||startup-mobile.ap.yandex-net.ru^
-||startup.mobile.yandex.net^
 ||js.hs-scripts.com^
 ||531211.ms.dzen.ru^
 ||551211.ms.dzen.ru^
 ||541211.ms.dzen.ru^
-||reporting.cdndex.io^
-||u.startup.mobile.webvisor.com^
-||tracking.ott.yandex.net^
 ||files.r00t.us.kg^
 ||beyondwickedmapping.org^
 ||egv4py1c-android.mobile-messenger.intercom.com^
+||rosenberg.appmetrica.yandex.net^
+||xray.mail.ru^
+||yandex-sync.rutarget.ru^
+||yandex-dmp-sync.rutarget.ru^
+||sync.upravel.com^
+||sync.gonet-ads.com^
+||sync.bumlam.com^
+||sync.dmp.otm-r.com^
+||ssp.adriver.ru^
+||sm.rtb.mts.ru^
+||shopnetic.com^
+||euw-ice.360yield.com^
+||s.uuidksinc.net^
+||match.new-programmatic.com^
+||exchange.buzzoola.com^
+||sdk-api.apptracer.ru^
+||mc.yandex.ru^
+||ru.tracker-api.my.com^
+||ip4.ru.tracker-api.my.com^
+||ogads-pa.clients6.google.com^
+||mytop.live.vkvideo.ru^
