@@ -209,3 +209,8 @@
 127.0.0.1 ip4.ru.tracker-api.my.com
 127.0.0.1 ogads-pa.clients6.google.com
 127.0.0.1 mytop.live.vkvideo.ru
+127.0.0.1 o4508663181148160.ingest.us.sentry.io
+127.0.0.1 static-mon.yandex.net
+127.0.0.1 telemetry.individual.githubcopilot.com
+127.0.0.1 westus-0.in.applicationinsights.azure.com
+127.0.0.1 mobile.events.data.microsoft.com
