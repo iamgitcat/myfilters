@@ -214,3 +214,5 @@
 127.0.0.1 telemetry.individual.githubcopilot.com
 127.0.0.1 westus-0.in.applicationinsights.azure.com
 127.0.0.1 mobile.events.data.microsoft.com
+127.0.0.1 an.yandex.ru
+127.0.0.1 ssp.hybrid.ai
