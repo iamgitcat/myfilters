@@ -24,9 +24,6 @@
 127.0.0.1 onelink.appsflyersdk.com
 127.0.0.1 cdn.cookielaw.org
 127.0.0.1 connect.facebook.net
-127.0.0.1 o1158394.ingest.us.sentry.io
-127.0.0.1 o33249.ingest.sentry.io
-127.0.0.1 sentry.io
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 api2.branch.io
 127.0.0.1 tganalytics.xyz
@@ -222,3 +219,5 @@
 127.0.0.1 mta2.directcrm.ru
 127.0.0.1 try.elevenlabs.io
 127.0.0.1 advisor.api.2gis.ru
+127.0.0.1 o1158394.ingest.us.sentry.io
+127.0.0.1 o33249.ingest.sentry.io
