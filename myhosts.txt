@@ -219,5 +219,4 @@
 127.0.0.1 mta2.directcrm.ru
 127.0.0.1 try.elevenlabs.io
 127.0.0.1 advisor.api.2gis.ru
-127.0.0.1 o1158394.ingest.us.sentry.io
 127.0.0.1 o33249.ingest.sentry.io
