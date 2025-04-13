@@ -221,3 +221,5 @@
 127.0.0.1 o33249.ingest.sentry.io
 127.0.0.1 632211.ms.vk.com
 127.0.0.1 feedbackws.icloud.com
+127.0.0.1 an.mail.ru
+127.0.0.1 642211.ms.vk.com
