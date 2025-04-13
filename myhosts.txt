@@ -122,7 +122,6 @@
 127.0.0.1 www.googleadservices.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 grattis.ru
-127.0.0.1 m.mradx.net
 127.0.0.1 api.deepstateplatypus.com
 127.0.0.1 matomo.com
 127.0.0.1 matomo.org
@@ -220,3 +219,5 @@
 127.0.0.1 try.elevenlabs.io
 127.0.0.1 advisor.api.2gis.ru
 127.0.0.1 o33249.ingest.sentry.io
+127.0.0.1 632211.ms.vk.com
+127.0.0.1 feedbackws.icloud.com
