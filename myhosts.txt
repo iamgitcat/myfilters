@@ -223,3 +223,6 @@
 127.0.0.1 feedbackws.icloud.com
 127.0.0.1 an.mail.ru
 127.0.0.1 642211.ms.vk.com
+127.0.0.1 partiality.itunes.apple.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 thind.unityads.unity3d.com
