@@ -226,3 +226,8 @@
 127.0.0.1 partiality.itunes.apple.com
 127.0.0.1 net.rayjump.com
 127.0.0.1 thind.unityads.unity3d.com
+127.0.0.1 gw.mediation.unity3d.com
+127.0.0.1 events.mz.unity3d.com
+127.0.0.1 o-sdk.mediation.unity3d.com
+127.0.0.1 api.gameanalytics.com
+127.0.0.1 metrics.icloud.com
