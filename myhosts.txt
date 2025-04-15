@@ -214,7 +214,6 @@
 127.0.0.1 ssp.hybrid.ai
 127.0.0.1 snapdrop.net
 127.0.0.1 featureassets.org
-127.0.0.1 o4506471608221696.ingest.us.sentry.io
 127.0.0.1 mta2.directcrm.ru
 127.0.0.1 try.elevenlabs.io
 127.0.0.1 advisor.api.2gis.ru
