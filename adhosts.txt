@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Конвертированные правила из hosts
-! Last modified: 2025-04-16 23:05:08
+! Last modified: 2025-04-16 23:16:46
 ||datacollector-drru.dt.dbankcloud.ru^
 ||appsflyersdk.com^
 ||browser-intake-datadoghq.com^
@@ -14,9 +14,6 @@
 ||ywbwza-inapps.appsflyersdk.com^
 ||ywbwza-cdn-settings.appsflyersdk.com^
 ||642111.ms.vk.com^
-||632111.ms.vk.com^
-||www.googletagmanager.com^
-||firebaselogging.googleapis.com^
 ||firebase-settings.crashlytics.com^
 ||launches.appsflyersdk.com^
 ||ads.vk.com^
@@ -243,3 +240,5 @@
 ||beacons.gcp.gvt2.com^
 ||assets.polarbyte.com^
 ||pixel.ipinfo.io^
+||632111.ms.vk.com^
+||www.googletagmanager.com^

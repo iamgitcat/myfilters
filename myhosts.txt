@@ -11,9 +11,6 @@
 127.0.0.1 ywbwza-inapps.appsflyersdk.com
 127.0.0.1 ywbwza-cdn-settings.appsflyersdk.com
 127.0.0.1 642111.ms.vk.com
-127.0.0.1 632111.ms.vk.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 launches.appsflyersdk.com
 127.0.0.1 ads.vk.com
@@ -240,3 +237,5 @@
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 assets.polarbyte.com
 127.0.0.1 pixel.ipinfo.io
+127.0.0.1 632111.ms.vk.com
+127.0.0.1 www.googletagmanager.com
