@@ -234,3 +234,7 @@
 127.0.0.1 abt.s3.yandex.net
 127.0.0.1 tracking.ott.yandex.net
 127.0.0.1 ax.amnezia.org
+127.0.0.1 api2.amplitude.com
+127.0.0.1 sdk-02.moengage.com
+127.0.0.1 mobile.yandexadexchange.net
+127.0.0.1 no-track.as93.net
