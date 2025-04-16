@@ -230,3 +230,7 @@
 127.0.0.1 o-sdk.mediation.unity3d.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 metrics.icloud.com
+127.0.0.1 app-measurement.com
+127.0.0.1 abt.s3.yandex.net
+127.0.0.1 tracking.ott.yandex.net
+127.0.0.1 ax.amnezia.org
