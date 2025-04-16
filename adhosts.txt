@@ -1,6 +1,6 @@
 [Adblock Plus 2 метод для определения доменов в буфере обмена.0]
 ! Title: Конвертированные правила из hosts
-! Last modified: 2025-04-16 23:57:20
+! Last modified: 2025-04-17 00:38:59
 ||datacollector-drru.dt.dbankcloud.ru^
 ||appsflyersdk.com^
 ||browser-intake-datadoghq.com^
@@ -246,3 +246,9 @@
 ||conversions.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^
 ||api.mixpanel.com^
+||firebaselogging.googleapis.com^
+||ts.tracker-api.vk-analytics.ru^
+||log.strm.yandex.ru^
+||ad.mail.ru^
+||tracker-api.vk-analytics.ru^
+||ip4.tracker-api.vk-analytics.ru^

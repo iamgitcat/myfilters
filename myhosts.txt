@@ -243,3 +243,9 @@
 127.0.0.1 conversions.appsflyersdk.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 ts.tracker-api.vk-analytics.ru
+127.0.0.1 log.strm.yandex.ru
+127.0.0.1 ad.mail.ru
+127.0.0.1 tracker-api.vk-analytics.ru
+127.0.0.1 ip4.tracker-api.vk-analytics.ru
