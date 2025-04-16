@@ -7,7 +7,6 @@
 127.0.0.1 connect-drru.hispace.dbankcloud.ru
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 ywbwza-launches.appsflyersdk.com
 127.0.0.1 ywbwza-inapps.appsflyersdk.com
 127.0.0.1 ywbwza-cdn-settings.appsflyersdk.com
