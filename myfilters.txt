@@ -88,3 +88,4 @@ www.securitylab.ru##.webinar-card
 3dnews.kz###right-sidebar
 pepelac.news###\31 5567 > .row.justify-content-center > div.my-5.d-none.d-md-block:nth-of-type(3) > .d-flex.justify-content-center
 pepelac.news###\31 5567 > .row.justify-content-center > div.my-5.d-none.d-md-block:nth-of-type(3)
+civitai.com##div.relative.flex.overflow-hidden.rounded-md.border-gray-3.bg-gray-0.shadow-gray-4.dark\:border-dark-4.dark\:bg-dark-6.dark\:shadow-dark-8.flex-col.mx-auto.min-w-80.justify-between.gap-2.border.p-2.shadow
