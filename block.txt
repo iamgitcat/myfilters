@@ -475,3 +475,4 @@ block events.framer.com
 block beacons5.gvt3.com
 block public.profitwell.com
 block cdn.snigelweb.com
+allow imagine.sng.link
