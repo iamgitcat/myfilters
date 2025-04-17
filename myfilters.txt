@@ -83,9 +83,7 @@ www.engadget.com##.caas-sticky-sda
 www.engadget.com### .caas-container > .caas-body-wrapper > .caas-body-content > .caas-body-inner-wrapper > .caas-aside-section.caas-slotted-aside
 www.engadget.com##.caas-aside-section.caas-slotted-aside
 www.securitylab.ru##.webinar-card
-3dnews.kz###right-sidebar
 
 3dnews.kz###right-sidebar
-pepelac.news###\31 5567 > .row.justify-content-center > div.my-5.d-none.d-md-block:nth-of-type(3) > .d-flex.justify-content-center
-pepelac.news###\31 5567 > .row.justify-content-center > div.my-5.d-none.d-md-block:nth-of-type(3)
 civitai.com##div.relative.flex.overflow-hidden.rounded-md.border-gray-3.bg-gray-0.shadow-gray-4.dark\:border-dark-4.dark\:bg-dark-6.dark\:shadow-dark-8.flex-col.mx-auto.min-w-80.justify-between.gap-2.border.p-2.shadow
+civitai.com##div.relative.flex.overflow-hidden.rounded-md.border-gray-3.bg-gray-0.shadow-gray-4.dark\:border-dark-4.dark\:bg-dark-6.dark\:shadow-dark-8.flex-col.w-full.items-center.justify-center.shadow
