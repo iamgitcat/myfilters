@@ -476,3 +476,6 @@ block beacons5.gvt3.com
 block public.profitwell.com
 block cdn.snigelweb.com
 allow imagine.sng.link
+block rt.applovin.com
+block d.applovin.com
+block ms.applovin.com
