@@ -84,3 +84,7 @@ www.engadget.com### .caas-container > .caas-body-wrapper > .caas-body-content > 
 www.engadget.com##.caas-aside-section.caas-slotted-aside
 www.securitylab.ru##.webinar-card
 3dnews.kz###right-sidebar
+
+3dnews.kz###right-sidebar
+pepelac.news###\31 5567 > .row.justify-content-center > div.my-5.d-none.d-md-block:nth-of-type(3) > .d-flex.justify-content-center
+pepelac.news###\31 5567 > .row.justify-content-center > div.my-5.d-none.d-md-block:nth-of-type(3)
