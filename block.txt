@@ -468,3 +468,4 @@ block metrika.kontur.ru
 block st.top100.ru
 block api.vigo.one
 block ssp.rutube.ru
+allow location.services.mozilla.com
