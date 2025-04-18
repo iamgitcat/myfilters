@@ -487,3 +487,4 @@ block eu.i.posthog.com
 block o467221.ingest.sentry.io
 block o1158394.ingest.us.sentry.io
 block api3.siftscience.com
+allow star.wdp.brave.com
