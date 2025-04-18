@@ -479,3 +479,11 @@ allow imagine.sng.link
 block rt.applovin.com
 block d.applovin.com
 block ms.applovin.com
+block events-collector-dataplatform.action-media.ru
+block log.mmstat.com
+block info.1cont.ru
+block script.marquiz.ru
+block eu.i.posthog.com
+block o467221.ingest.sentry.io
+block o1158394.ingest.us.sentry.io
+block api3.siftscience.com
