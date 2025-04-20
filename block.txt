@@ -225,7 +225,6 @@ block o-sdk.mediation.unity3d.com
 block api.gameanalytics.com
 block metrics.icloud.com
 block app-measurement.com
-block abt.s3.yandex.net
 block tracking.ott.yandex.net
 block ax.amnezia.org
 block api2.amplitude.com
@@ -405,7 +404,6 @@ block extmaps-api.yandex.net
 block appmetrica.yandex.ru
 block adfstat.yandex.ru
 block metrika.yandex.ru
-block offerwall.yandex.net
 block adfox.yandex.ru
 block auction.unityads.unity3d.com
 block webview.unityads.unity3d.com
