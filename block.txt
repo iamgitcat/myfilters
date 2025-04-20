@@ -490,3 +490,6 @@ block api3.siftscience.com
 allow star.wdp.brave.com
 block market-click-baobab.yandex.ru
 block mc.yandex.com
+block navvy.media.net
+block prebid.media.net
+block hb.ascendeummedia.com
