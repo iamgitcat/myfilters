@@ -487,3 +487,5 @@ block navvy.media.net
 block prebid.media.net
 block hb.ascendeummedia.com
 block samsungads.com
+allow amc.yandex.ru
+allow market-click-baobab.yandex.ru
