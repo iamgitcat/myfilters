@@ -196,7 +196,6 @@ block s.uuidksinc.net
 block match.new-programmatic.com
 block exchange.buzzoola.com
 block sdk-api.apptracer.ru
-block mc.yandex.ru
 block ru.tracker-api.my.com
 block ip4.ru.tracker-api.my.com
 block ogads-pa.clients6.google.com
@@ -206,7 +205,6 @@ block static-mon.yandex.net
 block telemetry.individual.githubcopilot.com
 block westus-0.in.applicationinsights.azure.com
 block mobile.events.data.microsoft.com
-block an.yandex.ru
 block ssp.hybrid.ai
 block snapdrop.net
 block featureassets.org
@@ -435,7 +433,6 @@ block logservice1.hicloud.com
 block logbak.hicloud.com
 block click.oneplus.cn
 block open.oneplus.net
-block samsungads.com
 block smetrics.samsung.com
 block nmetrics.samsung.com
 block samsung-com.112.2o7.net
@@ -488,8 +485,7 @@ block o467221.ingest.sentry.io
 block o1158394.ingest.us.sentry.io
 block api3.siftscience.com
 allow star.wdp.brave.com
-block market-click-baobab.yandex.ru
-block mc.yandex.com
 block navvy.media.net
 block prebid.media.net
 block hb.ascendeummedia.com
+block samsungads.com
