@@ -87,3 +87,9 @@ www.securitylab.ru##.webinar-card
 3dnews.kz###right-sidebar
 civitai.com##div.relative.flex.overflow-hidden.rounded-md.border-gray-3.bg-gray-0.shadow-gray-4.dark\:border-dark-4.dark\:bg-dark-6.dark\:shadow-dark-8.flex-col.mx-auto.min-w-80.justify-between.gap-2.border.p-2.shadow
 civitai.com##div.relative.flex.overflow-hidden.rounded-md.border-gray-3.bg-gray-0.shadow-gray-4.dark\:border-dark-4.dark\:bg-dark-6.dark\:shadow-dark-8.flex-col.w-full.items-center.justify-center.shadow
+www.seaart.ai##[src*="/_nuxt/img/tips-btn-magicwand.2ed12d0.webp"]
+www.seaart.ai##.tips-text
+www.seaart.ai##.half-discount-countdown
+www.seaart.ai##.ai-tools
+www.seaart.ai##h2.title-div:nth-of-type(1)
+www.seaart.ai##.btn-img
