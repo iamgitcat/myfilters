@@ -494,3 +494,6 @@ block inapps.appsflyersdk.com
 block ip4.tracker-api.my.com
 block an.yandex.ru
 block report.appmetrica.yandex.net
+block mc.yandex.ru
+block bs.yandex.ru
+block direct.yandex.ru
