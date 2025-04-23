@@ -497,3 +497,16 @@ block report.appmetrica.yandex.net
 block mc.yandex.ru
 block bs.yandex.ru
 block direct.yandex.ru
+block usa.ime.cootek.com
+block uxip.meizu.com
+block servicecut.meizu.com
+block at.atwola.com
+block api.segment.io
+block cdn-settings.segment.com
+block beacons2.gvt2.com
+block exception.uxip.meizu.com
+block cookiebot.com
+block cookiebot.org
+block browser.events.data.microsoft.com
+block az416426.vo.msecnd.net
+block consent.cookiebot.com
