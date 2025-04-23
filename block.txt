@@ -510,3 +510,4 @@ block cookiebot.org
 block browser.events.data.microsoft.com
 block az416426.vo.msecnd.net
 block consent.cookiebot.com
+block beacons3.gvt2.com
