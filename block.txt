@@ -492,3 +492,5 @@ allow vyborexperta.ru
 allow datacollector-drru.dt.dbankcloud.ru
 block inapps.appsflyersdk.com
 block ip4.tracker-api.my.com
+block an.yandex.ru
+block report.appmetrica.yandex.net
