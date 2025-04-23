@@ -526,3 +526,7 @@ block privacy-cs.mail.ru
 block tpc.googlesyndication.com
 block g.s.360.cn
 block zxcv.3g.qq.com
+block statad.ru
+block tools.3g.qq.com
+block usa.ime.cdn.cootekservice.com
+block fota5t.adups.com
