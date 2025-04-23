@@ -93,7 +93,4 @@ www.seaart.ai##.half-discount-countdown
 www.seaart.ai##.ai-tools
 www.seaart.ai##h2.title-div:nth-of-type(1)
 www.seaart.ai##.btn-img
-inapps.appsflyersdk.com
-T800
-11 minutes ago
-ip4.tracker-api.my.com
+www.securitylab.ru##.hacker-banner
