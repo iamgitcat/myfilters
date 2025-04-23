@@ -519,3 +519,7 @@ block api.bidmachine.io
 block init.supersonicads.com
 block wv.inner-active.mobi
 block app-analytics-services.com
+block beacons5.gvt2.com
+block beacons4.gvt2.com
+block stat.tildacdn.com
+block privacy-cs.mail.ru
