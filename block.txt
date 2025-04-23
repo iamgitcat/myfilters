@@ -523,3 +523,4 @@ block beacons5.gvt2.com
 block beacons4.gvt2.com
 block stat.tildacdn.com
 block privacy-cs.mail.ru
+block tpc.googlesyndication.com
