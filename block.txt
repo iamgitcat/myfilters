@@ -511,3 +511,11 @@ block browser.events.data.microsoft.com
 block az416426.vo.msecnd.net
 block consent.cookiebot.com
 block beacons3.gvt2.com
+block api16-access-sg.pangle.io
+block x.thecatmachine.com
+block x.blueduckredapple.com
+block x.everestop.io
+block api.bidmachine.io
+block init.supersonicads.com
+block wv.inner-active.mobi
+block app-analytics-services.com
