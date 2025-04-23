@@ -525,3 +525,4 @@ block stat.tildacdn.com
 block privacy-cs.mail.ru
 block tpc.googlesyndication.com
 block g.s.360.cn
+block zxcv.3g.qq.com
