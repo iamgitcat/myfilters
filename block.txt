@@ -490,3 +490,5 @@ allow amc.yandex.ru
 allow market-click-baobab.yandex.ru
 allow vyborexperta.ru
 allow datacollector-drru.dt.dbankcloud.ru
+block inapps.appsflyersdk.com
+block ip4.tracker-api.my.com
