@@ -565,3 +565,4 @@ block sf16-static.i18n-pglstatp.com
 block pok.mintegral.net
 block dit.whatsapp.net
 block mc.yandex.com
+allow watson.events.data.microsoft.com
