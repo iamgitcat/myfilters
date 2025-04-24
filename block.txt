@@ -566,3 +566,10 @@ block pok.mintegral.net
 block dit.whatsapp.net
 block mc.yandex.com
 allow watson.events.data.microsoft.com
+block tech.rtb.mts.ru
+block ad.new-programmatic.com
+block rap.skcrtxr.com
+block tag.rutarget.ru
+block dss.hybrid.ai
+block wf-ru-frontend.weborama-tech.ru
+block ad.adriver.ru
