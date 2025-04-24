@@ -573,3 +573,6 @@ block tag.rutarget.ru
 block dss.hybrid.ai
 block wf-ru-frontend.weborama-tech.ru
 block ad.adriver.ru
+block stats.habr.com
+block effect.habr.com
+block stats.itc.ua
