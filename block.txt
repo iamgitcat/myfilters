@@ -530,3 +530,9 @@ block statad.ru
 block tools.3g.qq.com
 block usa.ime.cdn.cootekservice.com
 block fota5t.adups.com
+block api.applovefrom.com
+block rts.mobula.sdk.duapps.com
+block cfg.imtt.qq.com
+block api.cloudmobi.net
+block info.3g.qq.com
+block eu-assets.i.posthog.com
