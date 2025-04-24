@@ -559,3 +559,7 @@ block i-sdk.mediation.unity3d.com
 block cdn2.inner-active.mobi
 block config.uca.cloud.unity3d.com
 block mgepodownload.mediatek.com
+block config.ads.vungle.com
+block tnc16-useast1a.byteoversea.com
+block sf16-static.i18n-pglstatp.com
+block pok.mintegral.net
