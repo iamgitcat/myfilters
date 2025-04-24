@@ -563,3 +563,5 @@ block config.ads.vungle.com
 block tnc16-useast1a.byteoversea.com
 block sf16-static.i18n-pglstatp.com
 block pok.mintegral.net
+block dit.whatsapp.net
+block mc.yandex.com
