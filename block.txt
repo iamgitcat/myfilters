@@ -466,7 +466,6 @@ allow location.services.mozilla.com
 allow startup.mobile.yandex.net
 block sdk-api-v1.singular.net
 block events.framer.com
-block beacons5.gvt3.com
 block public.profitwell.com
 block cdn.snigelweb.com
 allow imagine.sng.link
@@ -581,3 +580,4 @@ block accounts.doubleclick.net
 block sdkapiv2.bizport.cn
 block u.meizu.com
 block csp.yandex.net
+allow beacons5.gvt3.com
