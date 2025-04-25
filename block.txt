@@ -576,3 +576,5 @@ block ad.adriver.ru
 block stats.habr.com
 block effect.habr.com
 block stats.itc.ua
+block abt.s3.yandex.net
+block accounts.doubleclick.net
