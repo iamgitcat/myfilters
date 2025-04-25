@@ -578,3 +578,6 @@ block effect.habr.com
 block stats.itc.ua
 block abt.s3.yandex.net
 block accounts.doubleclick.net
+block sdkapiv2.bizport.cn
+block u.meizu.com
+block csp.yandex.net
