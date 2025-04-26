@@ -581,3 +581,11 @@ block sdkapiv2.bizport.cn
 block u.meizu.com
 block csp.yandex.net
 allow beacons5.gvt3.com
+allow theme.shalltry.com
+allow ire-oneid.shalltry.com
+allow dsu.shalltry.com
+allow paytrigger.shalltry.com
+allow ms.shalltry.com
+allow cloud-config-api.shalltry.com
+allow app-manage-api.shalltry.com
+allow gslb.shalltry.com
