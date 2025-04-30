@@ -594,3 +594,4 @@ allow browser.events.data.microsoft.com
 allow ee1-api.twibida.com
 allow reg-cbprodretail.wgcdn.co
 allow rus-dsu.shalltry.com
+block 652211.ms.vk.com
