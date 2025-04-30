@@ -66,7 +66,7 @@ block 4everland.io
 block trs.my.to
 block kumo.network-n.com
 block cdn.consentmanager.mgr.consensu.org
-block vortex.data.microsoft.com
+allow vortex.data.microsoft.com
 block o298668.ingest.us.sentry.io
 block o64374.ingest.sentry.io
 block 652111.ms.vk.com
@@ -203,7 +203,7 @@ block o4508663181148160.ingest.us.sentry.io
 block static-mon.yandex.net
 block telemetry.individual.githubcopilot.com
 block westus-0.in.applicationinsights.azure.com
-block mobile.events.data.microsoft.com
+allow mobile.events.data.microsoft.com
 block ssp.hybrid.ai
 block snapdrop.net
 block featureassets.org
@@ -591,3 +591,4 @@ allow gslb.shalltry.com
 block pmir.3g.qq.com
 block mazu.3g.qq.com
 allow browser.events.data.microsoft.com
+allow ee1-api.twibida.com
