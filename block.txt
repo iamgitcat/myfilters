@@ -589,3 +589,5 @@ allow ms.shalltry.com
 allow cloud-config-api.shalltry.com
 allow app-manage-api.shalltry.com
 allow gslb.shalltry.com
+block pmir.3g.qq.com
+block mazu.3g.qq.com
