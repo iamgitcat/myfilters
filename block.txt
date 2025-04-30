@@ -593,3 +593,4 @@ block mazu.3g.qq.com
 allow browser.events.data.microsoft.com
 allow ee1-api.twibida.com
 allow reg-cbprodretail.wgcdn.co
+allow rus-dsu.shalltry.com
