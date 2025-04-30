@@ -506,7 +506,6 @@ block beacons2.gvt2.com
 block exception.uxip.meizu.com
 block cookiebot.com
 block cookiebot.org
-block browser.events.data.microsoft.com
 block az416426.vo.msecnd.net
 block consent.cookiebot.com
 block beacons3.gvt2.com
@@ -591,3 +590,4 @@ allow app-manage-api.shalltry.com
 allow gslb.shalltry.com
 block pmir.3g.qq.com
 block mazu.3g.qq.com
+allow browser.events.data.microsoft.com
