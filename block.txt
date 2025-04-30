@@ -595,3 +595,6 @@ allow ee1-api.twibida.com
 allow reg-cbprodretail.wgcdn.co
 allow rus-dsu.shalltry.com
 block 652211.ms.vk.com
+block 45211.ms.vk.com
+block 43211.ms.vk.com
+block 44211.ms.vk.com
