@@ -599,3 +599,4 @@ block 43211.ms.vk.com
 block 44211.ms.vk.com
 allow ire-dsc.shalltry.com
 allow connect-drru.hispace.dbankcloud.ru
+block crashlyticsreports-pa.googleapis.com
