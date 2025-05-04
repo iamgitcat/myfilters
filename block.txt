@@ -3,7 +3,6 @@ block browser-intake-datadoghq.com
 block ingest.sentry.io
 block ingest.us.sentry.io
 block api.statsig.com
-block connect-drru.hispace.dbankcloud.ru
 block firebaselogging-pa.googleapis.com
 block googleads.g.doubleclick.net
 block ywbwza-launches.appsflyersdk.com
@@ -598,3 +597,5 @@ block 652211.ms.vk.com
 block 45211.ms.vk.com
 block 43211.ms.vk.com
 block 44211.ms.vk.com
+allow ire-dsc.shalltry.com
+allow connect-drru.hispace.dbankcloud.ru
