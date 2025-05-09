@@ -99,3 +99,6 @@ itc.ua##div.visible-sm.visible-xs
 itc.ua##.banner-agency
 www.seaart.ai##.btn-mix.flex_c_m
 www.seaart.ai##.btn-play.flex_c_m
+openproxylist.com##div.mx-auto.my-3.myTestAd
+www.seaart.ai##.user-vip
+www.seaart.ai##.downloadApp
