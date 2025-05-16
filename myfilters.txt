@@ -104,3 +104,6 @@ openproxylist.com##div.mx-auto.my-3.myTestAd
 www.seaart.ai##.user-vip
 www.seaart.ai##.downloadApp
 iphey.com##.banner__content
+forbes.com##+js(ra, class, html[class], stay)
+forbes.com##+js(ra, class, body[class], stay)
+forbes.com.au##+js(cookie-remover, blaize_session)
