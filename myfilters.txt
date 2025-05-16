@@ -97,3 +97,4 @@ www.securitylab.ru##.hacker-banner
 www.securitylab.ru##.hacker-banner
 itc.ua##div.visible-sm.visible-xs
 itc.ua##.banner-agency
+www.seaart.ai##div.box.marking-item > div > .base-card-box > div.content-box > .hover-mask-box-v2 > .prower-box > .bottom-btn-area > .content-box > div.btn-item.flex_c_m
