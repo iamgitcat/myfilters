@@ -107,3 +107,147 @@ iphey.com##.banner__content
 forbes.com##+js(ra, class, html[class], stay)
 forbes.com##+js(ra, class, body[class], stay)
 forbes.com.au##+js(cookie-remover, blaize_session)
+
+market.yandex.ru,market.yandex.*##.layout_type_search.headline__footer
+ya.ru,yandex.*##.main-home-banner
+
+!
+! Yandex (Яndex)
+yandex.by,yandex.kz,yandex.ru,yandex.uz###banner.b-banner__content
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz#?##search-result > .serp-list__card:-abp-has(> div .organic__subtitle > span:-abp-contains(/[РPeекламa]{6,7}/))
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.Ad > .Ad-Container ~ .Ad-Spinner
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.AdvRsya-Slot
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.Organic_withPromoOffer
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-spec-adv
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-yabrowser-promo
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.container__banner
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.content.i-bem > .body__topblocks
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.content__left > #search-result > li:-abp-has(> .Organic_withPromoOffer)
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.content__left > #search-result > li:-abp-has(> div .Organic-Subtitle > span:-abp-contains(/[РPeекламa]{6,7}/))
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.content__left > #search-result > li:-abp-has(> div .organic__subtitle > span:-abp-contains(/[РPeекламa]{6,7}/))
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.content__right > .z-market_right_yes
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.content__right div[class]:-abp-has(> div > script)
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.content__right div[class][data-log-node]:-abp-has(.DirectInlineContainer)
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.direct-view
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.dist-overlay__popup
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.i-bem.adsrv
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.i-bem.b-timetable__row[onclick*="awaps"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.i-bem.stripe_type_promo
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.i-bem.tv-grid__item-adv
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.i-bem.tv-sortable-item.tv-sortable-item_sortable_no
+ya.ru##.i-mini-bem[class*="banner"]
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.layout__banner
+ya.ru,yandex.by,yandex.kz,yandex.ru,yandex.uz##.main__distr-popup
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.masonry .incut_banner
+yandex.ru##.org.i-bem.org_js_inited > div[style^="border-bottom"]
+yandex.ru##.org__sidebar > .org__links + div[style^="margin-top"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.scroller__wrap > .showcase__item:-abp-has(.product-card__direct)
+yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.scroller__wrap > div[class^="minibadge"]:-abp-has(.serp-item .label:-abp-contains(реклама))
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.search-results__guadeloupe
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.serp-adv__add
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.serp-adv__all
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-view .business-advert-view
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.sidebar-view div[style*="!important"]:not([style*="font-size"])
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.spec-adv
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.stat_pixel_yes[onclick][class*="_layout_"][class*="_format_"]
+/portal/ntp/banner?$domain=yandex.by|yandex.kz|yandex.ru|yandex.uz
+@@://ya.r*/search$generichide
+@@://yandex.*/safe/win/$generichide
+@@://yandex.*/search$generichide
+@@://yandex.ru/|$generichide
+@@||yandex.ru/ads/system/adsdk.js|$script,domain=yandex.ru
+yandex.by,yandex.kz,yandex.ru,yandex.uz##a[href*="//ads.adfox.ru/"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##body[class*="b-page_alt-widgets_yes"] .feed ._need-stub
+yandex.ru##div[class$="ear_js_inited"] > a[href^="//awaps.yandex.ru"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##img[src*="yandex.net/get-direct"]
+market.yandex.ru,market.yandex.*##.layout_type_search.headline__footer
+ya.ru,yandex.*##.main-home-banner
+||awaps.yandex.
+||bs-meta.yandex.$script,xmlhttprequest
+||bs.yandex.$script
+||jstracer.yandex.ru/jstracer?videodirect=
+||kiks.yandex.
+||static-mon.yandex.net/static/main.js$domain=~auto.ru
+||strm.yandex.ru/get/$media,domain=yastatic.net
+||yabs.yandex.*/show/$third-party
+||yadi.sk^*direct?
+||yandex-news.naydex.net^$subdocument
+||yandex-pogoda.naydex.net^$subdocument
+||yandex.net/get-direct$domain=~e.mail.ru
+||yandex.ru/maps/api/branding/
+||yandex.ru/mapuid/$csp=script-src
+||yandex.ru/poll/video/$subdocument,domain=yastatic.net
+||yastatic.net/*/rsya-tag-users/
+||yastatic.net/daas/
+! Прочее
+disk.yandex.ru,disk.yandex.*##.awaps__banner
+disk.yandex.ru,disk.yandex.*##.software-header-promo
+disk.yandex.ru,disk.yandex.*##.top-direct-line
+disk.yandex.ru,disk.yandex.*##a[href][style*="storage.mds.yandex.net/get-bstor/"]
+disk.yandex.ru,disk.yandex.*##div[class^="direct"]:not([class^="directory-content"])
+docviewer.yandex.ru,docviewer.yandex.*##.js-doc-html > div[class^="pages_"] > div[class]:empty
+docviewer.yandex.ru,docviewer.yandex.*##.with-bottom-direct > div[class] > div[class]:empty
+eda.yandex.ru##[data-testid="open-advert-modal-button"]
+eda.yandex.ru##div[class^="banner_"]
+mail.yandex.ru,mail.yandex.*##div[class*="DirectLine"]
+mail.yandex.ru,mail.yandex.*#?#.js-scroller-right:-abp-has(> .BannersBlock > div:empty)
+mail.yandex.ru,mail.yandex.*#?#[data-key="box=left-box"]:-abp-has(> [data-key="view=react-left-column"] + div:empty) a[href*="/premium-"]
+rasp.yandex.ru,rasp.yandex.*##.Direct
+rasp.yandex.ru,rasp.yandex.*##.ThreadLayout__topDirect
+rasp.yandex.ru,rasp.yandex.*#?#.SearchSegments__row:-abp-has([class*="banner"])
+rasp.yandex.ru,rasp.yandex.*#?#.SearchSegments__row:-abp-has([id*="banner"])
+translate.yandex.ru,translate.yandex.*##.sidebar-direct
+travel.yandex.ru##div.root[id]:empty
+turbopages.org##.advert
+uslugi.yandex.ru##.WebBanner
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.b-direct
+yandex.by,yandex.kz,yandex.ru,yandex.uz##div[class^="b-spec-adv"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz##div[data-block="banner-view"]
+yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.page__result .typo:-abp-contains(/^новости партн/i)
+yandex.by,yandex.kz,yandex.ru,yandex.uz#?#html[class*=" Theme_color_news-"] div[class*="_type_native"] [class*="_type_card"]:-abp-has(> div > div:empty)
+yandex.ru##ymaps > div[class^="search-placemark-layout-connect_advert"]
+yandex.ru##ymaps > div[class^="search-placemark-layout-connect_special"]
+! Яндекс.Афиша
+afisha.yandex.ru,afisha.yandex.*##.afisha-profit-banner
+! Яндекс.Видео
+ya.ru##.DirectStripe
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.VideoViewer .Viewer-ScrollContainer > div[class]:first-child > div[id][class]:first-child:empty + div
+yandex.by,yandex.kz,yandex.ru,yandex.uz#?#div[class*="VideoViewer-Block"] > .VideoPlayerMetaInfo ~ div:-abp-has(> div[id]:empty)
+! Яндекс.Здоровье (yandex.*/health)
+yandex.ru##.advert-sticks
+yandex.ru##.pharmacy-page-view__top-banner
+yandex.ru##.turbo-advert
+yandex.ru##div[id^="R-I-"]
+! Яндекс.Игры
+yandex.ru,yandex.*##.grid-list__game-item_adv
+yandex.ru,yandex.*##.stack > .promo
+yandex.ru,yandex.*##div[class^="FeedAdvBlockRenderer-"]:empty
+! Яндекс.Музыка
+music.yandex.ru,music.yandex.*##.bar__driver-container
+music.yandex.ru,music.yandex.*##[class^="audio-advert"]
+music.yandex.ru,music.yandex.*##section[class^="SideAdvertBanner_root_"]
+radio.yandex.ru,radio.yandex.*##.slider > .slider__item_advert
+! Яндекс.Недвижимость
+realty.ya.ru##.FSGalleryLayout > .GalleryGuadeloupe
+realty.ya.ru##.OffersSearchPage__adCut
+realty.ya.ru##div[class$="__ads"]
+realty.ya.ru##div[class*="AdContainer"]
+realty.ya.ru##div[class*="__bottom-ad"]
+realty.ya.ru##div[class^="OfferCard__stickyAd"]
+realty.ya.ru##li[class*="__list-item_type_ad"]
+realty.ya.ru##li[class*="__list-item_type_promo"]
+! Яндекс.Турбо
+yandex.ru##.custom-block > .ext-embed
+yandex.ru#?#div[class$="_visible"]:-abp-has([class$="icon"] ~ [class]:-abp-contains(Рекламы нет))
+yandex.ru##div[id][data-log-node] > div:empty ~ i > [class] > .loader__dots
+yandex.ru##div[id][data-log-node] > div:empty ~ i > [class] > .loader__text
+||yastatic.net/*/turbo-static/embed-sandbox/*lentainform.com
+||yastatic.net/*/turbo-static/embed-sandbox/*smi2.ru
+! Яндекс.Погода
+yandex.by,yandex.kz,yandex.ru,yandex.uz#?#.forecast-details > .card:-abp-has(> [class*="adv"])
+yandex.by,yandex.kz,yandex.ru,yandex.uz##.weather-maps__ad
+! Яндекс.Телепрограмма
+tv.yandex.ru,tv.yandex.*##.branding
+tv.yandex.ru,tv.yandex.*##div[class*="adv-manager"]
+tv.yandex.ru,tv.yandex.*##script[nonce] + script[nonce] + div[class]
+
