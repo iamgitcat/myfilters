@@ -108,35 +108,6 @@ forbes.com##+js(ra, class, html[class], stay)
 forbes.com##+js(ra, class, body[class], stay)
 forbes.com.au##+js(cookie-remover, blaize_session)
 
-||content.adfox.ru/*/branding*.html$domain=music.yandex.*
-||strm.yandex.*/get/$media,domain=vh.yandex.*
-! Audio ad + popup
-||storage.mds.yandex.net/get-music/*/ad-exp/$media,domain=music.yandex.*
-/public/prerolls/*.mp3$domain=music.yandex.*
-music.yandex.*##section[class^="SideAdvertBanner_root__"]
-music.yandex.*##.audio-advert__block
-music.yandex.*##+js(abort-on-property-read, Object.prototype.videoAdvertPopup)
-music.yandex.*##div[class^="d-overhead"]
-music.yandex.*##.audio-advert__block
-music.yandex.*##.sidebar__placeholder .teaser ~ div
-
-disk.yandex.*##.direct
-||docviewer.yandex.*/sw.js
-
-ya.ru,yandex.*##:matches-path(/images).ImagesViewer-Sidebar > div.ImagesViewer-LayoutSideblock > div[class] > div[class$="-Container"] > div[class*="-Card"]:has(> div[class^="ImagesViewer-"] > div[class*="-Wrapper_skeleton"])
-ya.ru,yandex.*##.MMSidebar-Card_bottomAdv
-ya.ru,yandex.*##.ImagesViewer-SidebarAdv
-ya.ru,yandex.*##div[style^="max-width:"] > svg[width="100%"]
-ya.ru,yandex.*##.serp-list > div.incut
-ya.ru,yandex.*##.DirectInline
-
-ya.ru,yandex.*##:matches-path(/video).Viewer-Content div[class$="Block_bottomRounded"]
-! Video ad
-! ads near the player
-ya.ru,yandex.*##:matches-path(/video).Viewer > div[style^="height:"]
-ya.ru,yandex.*##:matches-path(/video).Viewer-ScrollContainer > div[class$="Block"] > div[class*="_placement_"]
-ya.ru,yandex.*##:matches-path(/video).DirectStripe
-
 market.yandex.*##div[id="/content/header/headerPromo"]
 market.yandex.*###banner-streamer
 market.yandex.*##div[data-apiary-widget-name*="@marketfront/HeroBanner"]
