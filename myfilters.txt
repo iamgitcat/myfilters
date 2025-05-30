@@ -64,3 +64,4 @@ market.yandex.*##div[id="/content/header/headerPromo"]
 market.yandex.*###banner-streamer
 market.yandex.*##div[data-apiary-widget-name*="@marketfront/HeroBanner"]
 market.yandex.*##div[data-apiary-widget-id*="/headerPromo"]
+rg.ru##.EditorialPageArticle_adv__co40V
