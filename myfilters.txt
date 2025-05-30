@@ -70,3 +70,4 @@ www.ixbt.com###yandex_recommend
 www.ixbt.com##.hcont.hc10
 www.ixbt.com##.yandex_recommend
 www.ixbt.com##.hcont.hc30
+www.ixbt.com##.hcont.hc20
