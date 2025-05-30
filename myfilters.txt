@@ -65,3 +65,8 @@ market.yandex.*###banner-streamer
 market.yandex.*##div[data-apiary-widget-name*="@marketfront/HeroBanner"]
 market.yandex.*##div[data-apiary-widget-id*="/headerPromo"]
 rg.ru##.EditorialPageArticle_adv__co40V
+rg.ru##.EditorialPageArticle_adv__co40V
+www.ixbt.com###yandex_recommend
+www.ixbt.com##.hcont.hc10
+www.ixbt.com##.yandex_recommend
+www.ixbt.com##.hcont.hc30
