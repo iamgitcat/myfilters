@@ -71,3 +71,9 @@ www.ixbt.com##.hcont.hc10
 www.ixbt.com##.yandex_recommend
 www.ixbt.com##.hcont.hc30
 www.ixbt.com##.hcont.hc20
+www.ixbt.com##.hcont.hc20
+naked-science.ru##.ads_single
+naked-science.ru##.ads_single.mobile-extended
+www.cnews.ru##.article-bottom-info
+www.cnews.ru##section.section_mainnews
+tengrinews.kz##.tn-top-banner
