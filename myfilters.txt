@@ -78,3 +78,4 @@ www.cnews.ru##.article-bottom-info
 www.cnews.ru##section.section_mainnews
 tengrinews.kz##.tn-top-banner
 ##.adfox-container
+||accounts.google.com/gsi/*\$xhr, script, 3p
