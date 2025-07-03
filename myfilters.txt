@@ -79,3 +79,9 @@ www.cnews.ru##section.section_mainnews
 tengrinews.kz##.tn-top-banner
 ##.adfox-container
 ||seaart.com/gsi/*\$xhr, script, 3p
+||www.seaart.ai/gsi/*\$xhr, script, 3p
+www.moneytimes.ru###div_sf_298
+www.moneytimes.ru###div_sf_300
+www.moneytimes.ru##.title > .center
+www.moneytimes.ru###sf-338
+www.moneytimes.ru###sf-339
