@@ -689,3 +689,5 @@ cdn-fc.com
 app.eduseio.com
 wstats.ageverif.com
 stat.its.porn
+b2.mail.ru
+alt-cloud.radar.imgsmail.ru
