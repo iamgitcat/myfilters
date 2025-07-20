@@ -85,3 +85,4 @@ www.moneytimes.ru###div_sf_300
 www.moneytimes.ru##.title > .center
 www.moneytimes.ru###sf-338
 www.moneytimes.ru###sf-339
+www.seaart.ai##.bottom-float-btn.popup-mode.is-popup
