@@ -713,3 +713,10 @@ videofarm.daum.net
 display.ad.daum.net
 p1-play.edge4k.com
 p2-play.edge4k.com
+h-adashx.ut.lazada.com
+ezfweb-conversions.appsflyersdk.com
+ezfweb-launches.appsflyersdk.com
+ezfweb-inapps.appsflyersdk.com
+ezfweb-cdn-settings.appsflyersdk.com
+adashx.ut.lazada.com
+mum.alibabachengdun.com
