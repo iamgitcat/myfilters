@@ -722,3 +722,5 @@ adashx.ut.lazada.com
 mum.alibabachengdun.com
 video-edge-4b5ae9.sjc05.hls.live-video.net
 reporting.cdndex.io
+sherpa.agoda.com
+www.statcounter.com
