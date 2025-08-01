@@ -724,3 +724,7 @@ video-edge-4b5ae9.sjc05.hls.live-video.net
 reporting.cdndex.io
 sherpa.agoda.com
 www.statcounter.com
+632121.ms.vk.com
+652121.ms.vk.com
+642121.ms.vk.com
+stats.vk-portal.net
