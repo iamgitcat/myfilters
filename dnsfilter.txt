@@ -735,3 +735,4 @@ cdn.tinypass.com
 px.staticfiles.at
 data-dda7d24eb2.derstandard.at
 likemore-go.imgsmail.ru
+metrics.crpt.ru
