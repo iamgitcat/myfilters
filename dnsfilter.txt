@@ -739,3 +739,5 @@ metrics.crpt.ru
 stat.sputnik.ru
 p1lts2-conversions.appsflyersdk.com
 p1lts2-attr.appsflyersdk.com
+b98.yahoo.co.jp
+agent-server.sc-api.seaart.ai
