@@ -736,3 +736,6 @@ px.staticfiles.at
 data-dda7d24eb2.derstandard.at
 likemore-go.imgsmail.ru
 metrics.crpt.ru
+stat.sputnik.ru
+p1lts2-conversions.appsflyersdk.com
+p1lts2-attr.appsflyersdk.com
