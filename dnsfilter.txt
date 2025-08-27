@@ -422,7 +422,6 @@ x.thecatmachine.com
 x.blueduckredapple.com
 x.everestop.io
 api.bidmachine.io
-init.supersonicads.com
 wv.inner-active.mobi
 app-analytics-services.com
 beacons5.gvt2.com
@@ -741,3 +740,4 @@ p1lts2-conversions.appsflyersdk.com
 p1lts2-attr.appsflyersdk.com
 b98.yahoo.co.jp
 agent-server.sc-api.seaart.ai
+init.supersonicads.com
