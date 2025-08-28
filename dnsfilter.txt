@@ -748,12 +748,7 @@ metrics.apple.com
 advertising.yahoo.com
 advertising.yandex.ru
 offerwall.yandex.net
-appcenter.ms
-firebase.io
 crashlytics.com
-api.browser.yandex.ru
-static.rustore.ru
-backapi.rustore.ru
 affiliationjs.s3.amazonaws.com
 www.stptrading.io
 farsroid.com
