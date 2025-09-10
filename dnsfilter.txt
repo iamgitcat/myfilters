@@ -798,3 +798,12 @@ c.msn.com
 deff.nelreports.net
 eastus2-3.in.applicationinsights.azure.com
 t-ring-s2.msedge.net
+3852249bd65e18dce759d23d0acfa232.clo.footprintdns.com
+ln-ring.msedge.net
+px.ads.linkedin.com
+srtb.msn.com
+browser.events.data.msn.com
+t-ring-s.msedge.net
+a-ring.msedge.net
+41ab1f64a9830c612eac8ac20dcc52e8.azr.footprintdns.com
+tring.clo.footprintdns.com
