@@ -765,3 +765,5 @@ c.bing.com
 static.addtoany.com
 wstracker.online
 utbench.utorrent.com
+browser.pipe.aria.microsoft.com
+target.microsoft.com
