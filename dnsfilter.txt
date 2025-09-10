@@ -783,3 +783,5 @@ verifi.podscribe.com
 aax-eu.amazon-adsystem.com
 ipv4.podscribe.com
 o4504136533147648.ingest.us.sentry.io
+abp.telemetry.adblockplus.org
+adblockplus.telemetry.eyeo.com
