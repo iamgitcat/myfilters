@@ -767,3 +767,12 @@ wstracker.online
 utbench.utorrent.com
 browser.pipe.aria.microsoft.com
 target.microsoft.com
+ced-ns.sascdn.com
+diagnostics.id5-sync.com
+i-666.b-0.ad.bench.utorrent.com
+cdn.id5-sync.com
+sdk.privacy-center.org
+ced.sascdn.com
+www9.smartadserver.com
+mscom.demdex.net
+microsoftmscompoc.tt.omtrdc.net
