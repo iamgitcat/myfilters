@@ -790,3 +790,11 @@ cdnssl.clicktale.net
 d.impactradius-event.com
 lptag.liveperson.net
 e2c81.gcp.gvt2.com
+fp.msedge.net
+c-ring.msedge.net
+t-ring-fallback.msedge.net
+aefd.nelreports.net
+c.msn.com
+deff.nelreports.net
+eastus2-3.in.applicationinsights.azure.com
+t-ring-s2.msedge.net
