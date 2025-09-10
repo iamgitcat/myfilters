@@ -776,3 +776,10 @@ ced.sascdn.com
 www9.smartadserver.com
 mscom.demdex.net
 microsoftmscompoc.tt.omtrdc.net
+w3-reporting-nel.reddit.com
+fpt.microsoft.com
+ara.paa-reporting-advertising.amazon
+verifi.podscribe.com
+aax-eu.amazon-adsystem.com
+ipv4.podscribe.com
+o4504136533147648.ingest.us.sentry.io
