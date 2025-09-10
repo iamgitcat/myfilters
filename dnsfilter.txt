@@ -785,3 +785,8 @@ ipv4.podscribe.com
 o4504136533147648.ingest.us.sentry.io
 abp.telemetry.adblockplus.org
 adblockplus.telemetry.eyeo.com
+mdec.nelreports.net
+cdnssl.clicktale.net
+d.impactradius-event.com
+lptag.liveperson.net
+e2c81.gcp.gvt2.com
