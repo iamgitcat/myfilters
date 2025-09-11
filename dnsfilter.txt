@@ -812,3 +812,4 @@ telem-edge.smartscreen.microsoft.com
 c1.microsoft.com
 confiant.msn.com
 btloader.com
+cdn.bitmedianetwork.com
