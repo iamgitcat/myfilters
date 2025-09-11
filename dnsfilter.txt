@@ -810,3 +810,5 @@ pixel-config.reddit.com
 d34r8q7sht0t9k.cloudfront.net
 telem-edge.smartscreen.microsoft.com
 c1.microsoft.com
+confiant.msn.com
+btloader.com
