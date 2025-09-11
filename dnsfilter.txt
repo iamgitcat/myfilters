@@ -806,3 +806,5 @@ t-ring-s.msedge.net
 a-ring.msedge.net
 41ab1f64a9830c612eac8ac20dcc52e8.azr.footprintdns.com
 tring.clo.footprintdns.com
+pixel-config.reddit.com
+d34r8q7sht0t9k.cloudfront.net
