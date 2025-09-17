@@ -36,7 +36,6 @@ hitcrypt.acstat.com
 5o8aj5nt.de
 api.mindbox.ru
 top-fwz1.mail.ru
-clienttracing-pa.googleapis.com
 open-api.spot.im
 launcher.spot.im
 ssl.google-analytics.com
@@ -187,7 +186,6 @@ exchange.buzzoola.com
 sdk-api.apptracer.ru
 ru.tracker-api.my.com
 ip4.ru.tracker-api.my.com
-ogads-pa.clients6.google.com
 mytop.live.vkvideo.ru
 o4508663181148160.ingest.us.sentry.io
 static-mon.yandex.net
@@ -739,7 +737,6 @@ p1lts2-conversions.appsflyersdk.com
 p1lts2-attr.appsflyersdk.com
 b98.yahoo.co.jp
 agent-server.sc-api.seaart.ai
-init.supersonicads.com
 globalapi.ad.xiaomi.com
 advertising.apple.com
 tr.iadsdk.apple.com
@@ -813,3 +810,4 @@ c1.microsoft.com
 confiant.msn.com
 btloader.com
 cdn.bitmedianetwork.com
+init.supersonicads.com
