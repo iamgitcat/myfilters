@@ -7,8 +7,6 @@ reddit.com#?#div:-abp-has(> span:-abp-contains(pride))
 extensions.gnome.org##.info.message
 androidauthority.com##.--___*.--
 imginn.com##.block-sulvo
-wotstars.com###root > div.hide-from-supporters:nth-child(5)
-wotstars.com###root > div:nth-child(6)
 reports.adguard.com###app > div.report.report--ok > div.report__in:last-child > div.report__left:first-child > div.report__download.hello_from_adguard_apps.report__download--visible:last-child
 cdn-widget.grattis.ru
 kakoysegodnyaprazdnik.ru##.footer_info
@@ -94,4 +92,5 @@ blitzstars.com##.row.support-banner
 dzen.ru##div[class*="content--article__article"][class*="content--article-item__articleLayout"]
 dzen.ru##.content--donation-button__customButton-3V
 dzen.ru##.comments2--subscribe-banner__subscribeBanner-kp
+
 dzen.ru##.comments2--comment-textarea__block-30
