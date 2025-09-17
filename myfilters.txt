@@ -94,3 +94,4 @@ dzen.ru##.content--donation-button__customButton-3V
 dzen.ru##.comments2--subscribe-banner__subscribeBanner-kp
 
 dzen.ru##.comments2--comment-textarea__block-30
+www.wotstars.com##.hide-from-supporters
