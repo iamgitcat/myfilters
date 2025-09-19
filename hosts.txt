@@ -811,3 +811,4 @@
 127.0.0.1 btloader.com
 127.0.0.1 cdn.bitmedianetwork.com
 127.0.0.1 init.supersonicads.com
+127.0.0.1 plausible.io
