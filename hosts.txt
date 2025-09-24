@@ -812,3 +812,4 @@
 127.0.0.1 cdn.bitmedianetwork.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 plausible.io
+127.0.0.1 e2c71.gcp.gvt2.com
