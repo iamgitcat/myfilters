@@ -8,7 +8,6 @@
 127.0.0.1 ywbwza-cdn-settings.appsflyersdk.com
 127.0.0.1 642111.ms.vk.com
 127.0.0.1 firebase-settings.crashlytics.com
-127.0.0.1 launches.appsflyersdk.com
 127.0.0.1 ywbwza-conversions.appsflyersdk.com
 127.0.0.1 vk-analytics.ru
 127.0.0.1 impactserving.com
@@ -219,7 +218,6 @@
 127.0.0.1 632111.ms.vk.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 beacons.gvt2.com
-127.0.0.1 conversions.appsflyersdk.com
 127.0.0.1 cdn-settings.appsflyersdk.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 firebaselogging.googleapis.com
@@ -393,7 +391,6 @@
 127.0.0.1 prebid.media.net
 127.0.0.1 hb.ascendeummedia.com
 127.0.0.1 samsungads.com
-127.0.0.1 inapps.appsflyersdk.com
 127.0.0.1 ip4.tracker-api.my.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 report.appmetrica.yandex.net
@@ -667,7 +664,6 @@
 127.0.0.1 video-edge-53a845.sjc05.hls.live-video.net
 127.0.0.1 player.stats.live-video.net
 127.0.0.1 sp.aviasales.com
-127.0.0.1 register.appsflyersdk.com
 127.0.0.1 adx.videonow.ru
 127.0.0.1 bs.serving-sys.ru
 127.0.0.1 pbs.alfasense.com
