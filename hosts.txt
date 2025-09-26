@@ -1,4 +1,3 @@
-127.0.0.1 appsflyersdk.com
 127.0.0.1 browser-intake-datadoghq.com
 127.0.0.1 ingest.sentry.io
 127.0.0.1 ingest.us.sentry.io
@@ -655,7 +654,6 @@
 127.0.0.1 www.travelpayouts.com
 127.0.0.1 star-randsrv.bsg.brave.com
 127.0.0.1 glitter.services.disqus.com
-127.0.0.1 cdn.diginetica.net
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 secure-sts-prod.imrworldwide.com
 127.0.0.1 d2v02itv0y9u9t.cloudfront.net
