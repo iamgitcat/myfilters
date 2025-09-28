@@ -806,3 +806,8 @@
 127.0.0.1 init.supersonicads.com
 127.0.0.1 plausible.io
 127.0.0.1 e2c71.gcp.gvt2.com
+127.0.0.1 tracking.diginetica.net
+127.0.0.1 static.indoleads.com
+127.0.0.1 cstatic-ru-cv.weborama-tech.ru
+127.0.0.1 autocomplete.diginetica.net
+127.0.0.1 app.uaas.yandex.ru
