@@ -811,3 +811,7 @@
 127.0.0.1 cstatic-ru-cv.weborama-tech.ru
 127.0.0.1 autocomplete.diginetica.net
 127.0.0.1 app.uaas.yandex.ru
+127.0.0.1 hit.acstat.com
+127.0.0.1 gdeslon.ru
+127.0.0.1 qntm.pro
+127.0.0.1 bonuscake.ru
