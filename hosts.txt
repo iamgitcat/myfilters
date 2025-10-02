@@ -824,3 +824,8 @@
 127.0.0.1 conversions.appsflyersdk.com
 127.0.0.1 register.appsflyersdk.com
 127.0.0.1 cdn.diginetica.net
+127.0.0.1 grs.dbankcloud.com
+127.0.0.1 grs.dbankcloud.cn
+127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 grs.dbankcloud.eu
+127.0.0.1 grs.dbankcloud.asia
