@@ -817,3 +817,10 @@
 127.0.0.1 bonuscake.ru
 127.0.0.1 tracking-app.diginetica.net
 127.0.0.1 sentry.pulse.kts.studio
+127.0.0.1 pia.appsflyersdk.com
+127.0.0.1 gcdsdk.appsflyersdk.com
+127.0.0.1 launches.appsflyersdk.com
+127.0.0.1 inapps.appsflyersdk.com
+127.0.0.1 conversions.appsflyersdk.com
+127.0.0.1 register.appsflyersdk.com
+127.0.0.1 cdn.diginetica.net
