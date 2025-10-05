@@ -96,3 +96,6 @@ dzen.ru##.comments2--subscribe-banner__subscribeBanner-kp
 dzen.ru##.comments2--comment-textarea__block-30
 www.wotstars.com##.hide-from-supporters
 kod.ru##.SmallTgBanner_banner__N6i55
+kod.ru##.SmallTgBanner_banner__N6i55
+paypal.com##+js(brave-fix)
+www.apkmirror.com##.f-100.p-relative.d-flex.f-nowrap > .f-grow
