@@ -829,3 +829,5 @@
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 grs.dbankcloud.eu
 127.0.0.1 grs.dbankcloud.asia
+127.0.0.1 api.amplitude.com
+127.0.0.1 statgw.devtodev.com
