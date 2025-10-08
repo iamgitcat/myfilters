@@ -99,3 +99,8 @@ kod.ru##.SmallTgBanner_banner__N6i55
 kod.ru##.SmallTgBanner_banner__N6i55
 paypal.com##+js(brave-fix)
 www.apkmirror.com##.f-100.p-relative.d-flex.f-nowrap > .f-grow
+
+www.trueachievements.com##.pw_player_w > .pro-upgrade
+www.trueachievements.com###pw_player
+www.trueachievements.com##.dyn-lb.lb-footer
+www.trueachievements.com##.t-1.t-3.t-2.t-5.t-6.open
