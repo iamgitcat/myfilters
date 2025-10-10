@@ -831,3 +831,4 @@
 127.0.0.1 grs.dbankcloud.asia
 127.0.0.1 api.amplitude.com
 127.0.0.1 statgw.devtodev.com
+127.0.0.1 video-edge-bf9207.sjc05.hls.live-video.net
