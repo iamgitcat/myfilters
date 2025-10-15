@@ -834,3 +834,8 @@
 127.0.0.1 video-edge-bf9207.sjc05.hls.live-video.net
 127.0.0.1 edge.adobedc.net
 127.0.0.1 rum.aliyuncs.com
+127.0.0.1 https://github.com
+127.0.0.1 d3host.adblock
+127.0.0.1 https://d3ward.github.io
+127.0.0.1 d3ward.github.io
+127.0.0.1 pagead.js
