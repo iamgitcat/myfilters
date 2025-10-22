@@ -5,7 +5,6 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 ywbwza-launches.appsflyersdk.com
 127.0.0.1 ywbwza-inapps.appsflyersdk.com
-127.0.0.1 ywbwza-cdn-settings.appsflyersdk.com
 127.0.0.1 642111.ms.vk.com
 127.0.0.1 firebase-settings.crashlytics.com
 127.0.0.1 ywbwza-conversions.appsflyersdk.com
