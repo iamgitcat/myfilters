@@ -659,7 +659,6 @@
 127.0.0.1 cloudservice14.kingsoft-office-service.com
 127.0.0.1 api-ad-adapter.wps.com
 127.0.0.1 cloudservice24.kingsoft-office-service.com
-127.0.0.1 adaggreg-ali.shalltry.com
 127.0.0.1 video-edge-53a845.sjc05.hls.live-video.net
 127.0.0.1 player.stats.live-video.net
 127.0.0.1 sp.aviasales.com
