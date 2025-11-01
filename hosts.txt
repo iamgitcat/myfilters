@@ -832,3 +832,5 @@
 127.0.0.1 video-edge-bf9207.sjc05.hls.live-video.net
 127.0.0.1 edge.adobedc.net
 127.0.0.1 rum.aliyuncs.com
+127.0.0.1 api.hisavana.com
+127.0.0.1 cc-api.hisavana.com
