@@ -835,5 +835,4 @@
 127.0.0.1 api.hisavana.com
 127.0.0.1 cc-api.hisavana.com
 127.0.0.1 adaggreg-ali.shalltry.com
-127.0.0.1 ire-dsc.shalltry.com
 127.0.0.1 af.shalltry.com
