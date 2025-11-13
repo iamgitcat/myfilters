@@ -837,3 +837,5 @@
 127.0.0.1 adaggreg-ali.shalltry.com
 127.0.0.1 af.shalltry.com
 127.0.0.1 analytics.andisearch.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 tags.bkrtx.com
