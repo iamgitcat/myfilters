@@ -840,3 +840,4 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 imasdk.googleapis.com
+127.0.0.1 h5.eagllwin.com
