@@ -744,7 +744,6 @@
 127.0.0.1 dicardo.com
 127.0.0.1 cafebazaar.ir
 127.0.0.1 client.arongroups.co
-127.0.0.1 api.oneme.ru
 127.0.0.1 gb4w8c3ygj-default-sea.rum.aliyuncs.com
 127.0.0.1 g.live.com
 127.0.0.1 adsdk.microsoft.com
