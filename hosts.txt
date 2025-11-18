@@ -839,3 +839,4 @@
 127.0.0.1 ywbwza-inapps.appsflyersdk.com
 127.0.0.1 ywbwza-launches.appsflyersdk.com
 127.0.0.1 zxcv.3g.qq.com
+127.0.0.1 spocs.getpocket.com
