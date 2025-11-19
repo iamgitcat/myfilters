@@ -843,3 +843,4 @@
 127.0.0.1 count.darkreader.app
 127.0.0.1 analytics.brave.com
 127.0.0.1 ogads-pa.clients6.google.com
+127.0.0.1 sgtm.ixbt.com
