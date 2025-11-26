@@ -203,7 +203,6 @@
 127.0.0.1 bonuscake.ru
 127.0.0.1 books-analytics-events.apple.com
 127.0.0.1 browser-intake-datadoghq.com
-127.0.0.1 browser-updater.yandex.net
 127.0.0.1 browser.events.data.msn.com
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser.sentry-cdn.com
@@ -846,3 +845,6 @@
 127.0.0.1 sgtm.ixbt.com
 127.0.0.1 collector.superwall.me
 127.0.0.1 o509018.ingest.us.sentry.io
+127.0.0.1 c3se4i.ru
+127.0.0.1 mpsbol.clickstream.sberbank.ru
+127.0.0.1 wcm.weborama-tech.ru
