@@ -848,3 +848,7 @@
 127.0.0.1 c3se4i.ru
 127.0.0.1 mpsbol.clickstream.sberbank.ru
 127.0.0.1 wcm.weborama-tech.ru
+127.0.0.1 irl.appnext.com
+127.0.0.1 thirdback.eagllwin.com
+127.0.0.1 fundingchoicesmessages.google.com
+127.0.0.1 content.adfox.ru
