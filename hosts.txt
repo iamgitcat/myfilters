@@ -860,3 +860,5 @@
 127.0.0.1 data-getway.pixai.art
 127.0.0.1 mcs.tobsnssdk.com
 127.0.0.1 c.tensor.art
+127.0.0.1 api.a.mts.ru
+127.0.0.1 tag.a.mts.ru
