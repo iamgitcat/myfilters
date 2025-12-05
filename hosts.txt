@@ -862,3 +862,4 @@
 127.0.0.1 c.tensor.art
 127.0.0.1 api.a.mts.ru
 127.0.0.1 tag.a.mts.ru
+127.0.0.1 video-edge-47127a.sjc05.hls.live-video.net
