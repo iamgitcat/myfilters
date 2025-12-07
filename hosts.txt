@@ -863,3 +863,13 @@
 127.0.0.1 api.a.mts.ru
 127.0.0.1 tag.a.mts.ru
 127.0.0.1 video-edge-47127a.sjc05.hls.live-video.net
+127.0.0.1 d0.mradx.net
+127.0.0.1 events.character.ai
+127.0.0.1 sdk.iad-07.braze.com
+127.0.0.1 ms.applvn.com
+127.0.0.1 sts.applovin.com
+127.0.0.1 rt.applvn.com
+127.0.0.1 d.applvn.com
+127.0.0.1 ms4.applvn.com
+127.0.0.1 ms4.applovin.com
+127.0.0.1 o4504695552606208.ingest.sentry.io
