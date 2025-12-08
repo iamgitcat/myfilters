@@ -873,3 +873,5 @@
 127.0.0.1 ms4.applvn.com
 127.0.0.1 ms4.applovin.com
 127.0.0.1 o4504695552606208.ingest.sentry.io
+127.0.0.1 federatedcompute-pa.googleapis.com
+127.0.0.1 ogads-pa.googleapis.com
