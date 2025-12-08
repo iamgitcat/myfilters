@@ -875,8 +875,3 @@
 127.0.0.1 o4504695552606208.ingest.sentry.io
 127.0.0.1 federatedcompute-pa.googleapis.com
 127.0.0.1 ogads-pa.googleapis.com
-127.0.0.1 curt190.curtvbest.ir
-127.0.0.1 blazexgr.trbest1.ir
-127.0.0.1 best1.bestshop10.ir
-127.0.0.1 maznet-join-bede.mahdijamkaran.online
-127.0.0.1 638759274885104076.budapest-mpl-eak.info
