@@ -879,3 +879,5 @@
 127.0.0.1 census-app.scorecardresearch.com
 127.0.0.1 track-us.bidease.com
 127.0.0.1 hooks.slack.com
+127.0.0.1 mc.webvisor.org
+127.0.0.1 ctimages.servefilesonly.com
