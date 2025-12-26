@@ -886,3 +886,7 @@
 127.0.0.1 skw.eve.account.sony.com
 127.0.0.1 smetrics.aem.playstation.com
 127.0.0.1 ut.qwen.ai
+127.0.0.1 config.cmpassport.com
+127.0.0.1 sdk.verification.jiguang.cn
+127.0.0.1 log1.cmpassport.com
+127.0.0.1 72pz2b.conversions.appsflyersdk.com
