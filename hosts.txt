@@ -893,3 +893,17 @@
 127.0.0.1 improving.duckduckgo.com
 127.0.0.1 msftenterprise.sc.omtrdc.net
 127.0.0.1 dpm.demdex.net
+127.0.0.1 stats-ipv6.jpush.cn
+127.0.0.1 stats.jpush.cn
+127.0.0.1 tsis-ipv6.jpush.cn
+127.0.0.1 tsis.jpush.cn
+127.0.0.1 pulse.jpush.cn
+127.0.0.1 config-ipv6.jpush.cn
+127.0.0.1 config.jpush.cn
+127.0.0.1 ce3e75d5-ipv6.jpush.cn
+127.0.0.1 ce3e75d5.jpush.cn
+127.0.0.1 im64.jpush.cn
+127.0.0.1 sis.jpush.io
+127.0.0.1 s.jpush.cn
+127.0.0.1 sis-ipv6.jpush.cn
+127.0.0.1 jpush.cn
