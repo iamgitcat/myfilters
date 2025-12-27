@@ -907,3 +907,6 @@
 127.0.0.1 s.jpush.cn
 127.0.0.1 sis-ipv6.jpush.cn
 127.0.0.1 jpush.cn
+127.0.0.1 static.iterable.com
+127.0.0.1 assets.iterable.com
+127.0.0.1 metrics.alfabank.ru
