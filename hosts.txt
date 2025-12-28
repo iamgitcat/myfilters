@@ -910,3 +910,5 @@
 127.0.0.1 static.iterable.com
 127.0.0.1 assets.iterable.com
 127.0.0.1 metrics.alfabank.ru
+127.0.0.1 stat.radar.imgsmail.ru
+127.0.0.1 phosphor-pa.googleapis.com
