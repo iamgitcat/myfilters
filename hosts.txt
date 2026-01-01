@@ -912,3 +912,7 @@
 127.0.0.1 metrics.alfabank.ru
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 phosphor-pa.googleapis.com
+127.0.0.1 rp.hpplay.cn
+127.0.0.1 cdnauth2.hpplay.cn
+127.0.0.1 cdnauth1.hpplay.cn
+127.0.0.1 sdkauthhk.hpplay.cn
