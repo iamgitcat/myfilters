@@ -11,8 +11,7 @@
 127.0.0.1 33211.ms.vk.com
 127.0.0.1 34211.ms.vk.com
 127.0.0.1 35211.ms.vk.com
-127.0.0.1 3852249bd65e18dce759d23d0acfa232.clo.footprintdns.com
-127.0.0.1 41ab1f64a9830c612eac8ac20dcc52e8.azr.footprintdns.com
+127.0.0.1 footprintdns.com
 127.0.0.1 43211.ms.vk.com
 127.0.0.1 44211.ms.vk.com
 127.0.0.1 45211.ms.vk.com
@@ -104,8 +103,8 @@
 127.0.0.1 ahagamecenter.com
 127.0.0.1 aider-res.meizu.com
 127.0.0.1 aj2703.bid
-127.0.0.1 alirtc.log-global.aliyuncs.com
-127.0.0.1 alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com
+127.0.0.1 log-global.aliyuncs.com
+127.0.0.1 log.aliyuncs.com
 127.0.0.1 alt-ad.mail.ru
 127.0.0.1 alt-cloud.radar.imgsmail.ru
 127.0.0.1 amazon-adsystem.com
@@ -169,8 +168,8 @@
 127.0.0.1 applvn.com
 127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 appsflyer.com
-127.0.0.1 apsara-video-client.cn-shanghai.log.aliyuncs.com
-127.0.0.1 ara.paa-reporting-advertising.amazon
+127.0.0.1 log.aliyuncs.com
+127.0.0.1 paa-reporting-advertising.amazon
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.polarbyte.com
 127.0.0.1 at.atwola.com
@@ -916,3 +915,12 @@
 127.0.0.1 cdnauth2.hpplay.cn
 127.0.0.1 cdnauth1.hpplay.cn
 127.0.0.1 sdkauthhk.hpplay.cn
+127.0.0.1 stripe.com
+127.0.0.1 stripe.network
+127.0.0.1 subscriptions-api.superwall.com
+127.0.0.1 semanticlocation-pa.googleapis.com
+127.0.0.1 locationhistoryplacedetails-pa.googleapis.com
+127.0.0.1 locationhistory-pa.googleapis.com
+127.0.0.1 userlocation.googleapis.com
+127.0.0.1 startup-mobile.ap.yandex-net.ru
+127.0.0.1 speed.acobt.tech
