@@ -1,0 +1,43 @@
+name: Compile sing-box rule-set 🔥
+
+on:
+  push:
+    paths:
+      - 'list.txt' # 🛠 Сработает только при изменении этого файла
+  workflow_dispatch: # 🛠 Позволяет запустить сборку вручную
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code 🛑
+        uses: actions/checkout@v4
+
+      - name: Install sing-box 🛠
+        run: |
+          # 🔥 Качаем последний релиз sing-box
+          curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.8.10/sing-box-1.8.10-linux-amd64.tar.gz
+          tar -xzf sing-box.tar.gz
+          mv sing-box-*/sing-box .
+          chmod +x sing-box
+
+      - name: Convert list.txt to JSON 🛠
+        run: |
+          # 🛑 Создаем структуру JSON из обычного списка доменов
+          echo '{"version": 1, "rules": [{"domain": [' > source.json
+          sed 's/^/"/;s/$/",/' list.txt | sed '$ s/,$//' >> source.json
+          echo ']}]}' >> source.json
+
+      - name: Compile to SRS 🛠
+        run: |
+          # 🔥 Финальный рывок: бинарная компиляция
+          ./sing-box rule-set compile --output rules.srs source.json
+
+      - name: Push results 🚀
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add rules.srs
+          git commit -m "Update binary rules: $(date)" || exit 0
+          git push
+
