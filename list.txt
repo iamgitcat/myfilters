@@ -32,6 +32,7 @@
 642121.ms.vk.com
 642211.ms.vk.com
 652111.ms.vk.com
+652111.ms.vk.ru
 652121.ms.vk.com
 652211.ms.vk.com
 72pz2b.conversions.appsflyersdk.com
@@ -118,6 +119,7 @@ analytics-sg.tiktok.com
 analytics.andisearch.com
 analytics.brave.com
 analytics.google.com
+analytics.max-admin.ru
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com

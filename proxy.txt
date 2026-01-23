@@ -33,6 +33,7 @@ ip.sb
 koofr.net
 linux.org
 list-manage.com
+list.txt
 loudinary.com
 metahub.space
 moescape.ai
