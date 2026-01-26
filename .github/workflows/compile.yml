@@ -1,10 +1,9 @@
-name: Compile sing-box rule-sets 🔥
+Name: Compile sing-box rule-sets 🔥
 
 on:
   push:
     paths:
-      - 'list.txt'
-      - 'proxy.txt'
+      - 'block.txt'
   workflow_dispatch:
 
 permissions:
@@ -26,22 +25,18 @@ jobs:
 
       - name: Compile Blocklist 🛠
         run: |
+          # Формируем JSON из block.txt
           echo '{"version": 1, "rules": [{"domain": [' > block.json
-          sed 's/^/"/;s/$/",/' list.txt | sed '$ s/,$//' >> block.json
+          sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
           echo ']}]}' >> block.json
-          ./sing-box rule-set compile --output rules.srs block.json
-
-      - name: Compile Proxylist 🛠
-        run: |
-          echo '{"version": 1, "rules": [{"domain": [' > proxy.json
-          sed 's/^/"/;s/$/",/' proxy.txt | sed '$ s/,$//' >> proxy.json
-          echo ']}]}' >> proxy.json
-          ./sing-box rule-set compile --output proxy.srs proxy.json
+          
+          # Компиляция в бинарный формат .srs
+          ./sing-box rule-set compile --output block.srs block.json
 
       - name: Push results 🚀
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add rules.srs proxy.srs
-          git commit -m "Update binary rules: $(date)" || exit 0
+          git add block.srs
+          git commit -m "Update binary blocklist: $(date)" || exit 0
           git push
