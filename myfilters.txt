@@ -107,3 +107,5 @@ www.trueachievements.com##.t-1.t-3.t-2.t-5.t-6.open
 
 www.apkmirror.com##.ains.ains-2.ains-has-label.ains-apkm_sidebar_top
 www.apkmirror.com##.ains.ains-10.ains-has-label.ains-apkm_dev_page_top
+@@||j2af.adj.st^$first-party
+club.dns-shop.ru##.action-widget
