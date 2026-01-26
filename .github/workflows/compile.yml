@@ -1,4 +1,4 @@
-Name: Compile sing-box rule-sets 🔥
+name: Compile sing-box rule-sets 🔥
 
 on:
   push:
