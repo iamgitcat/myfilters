@@ -27,6 +27,7 @@
 632111.ms.vk.ru
 632121.ms.vk.com
 632211.ms.vk.com
+632211.ms.vk.ru
 642111.ms.vk.com
 642111.ms.vk.ru
 642121.ms.vk.com
@@ -35,6 +36,7 @@
 652111.ms.vk.ru
 652121.ms.vk.com
 652211.ms.vk.com
+652211.ms.vk.ru
 72pz2b.conversions.appsflyersdk.com
 931221.log.rutube.ru
 941221.log.rutube.ru
@@ -42,6 +44,7 @@
 Doubleclick.net
 Media.net
 a-ring.msedge.net
+a.kupibilet.ru
 a.utraff.com
 a.wb.ru
 aa.online-metrix.net
@@ -656,6 +659,7 @@ prebid.media.net
 privacy-cs.mail.ru
 privacy-sandbox.appsflyersdk.com
 prod.cm.publishers.advertising.a2z.com
+provision.app.devapps.ru
 public.profitwell.com
 pulse.jpush.cn
 pv-track.pxtrkapp.com
