@@ -120,3 +120,4 @@ mixnews.lv##.mobile.read-us-also
 mixnews.lv###mxhs-widget > .mxhs-grid-container
 mixnews.lv##.mxhs-header
 mixnews.lv###mxhs-widget_offs2 > .mxhs-grid-container
+creator.nightcafe.studio##div.css-y8aj3r:nth-of-type(3) > .css-0
