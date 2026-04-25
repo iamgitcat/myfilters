@@ -214,6 +214,7 @@ beyondwickedmapping.org
 bidder.criteo.com
 bonuscake.ru
 books-analytics-events.apple.com
+branch.io
 browser-intake-datadoghq.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
