@@ -1,4 +1,8 @@
 1000gem.org
+1419855--176841276-111-mnews.ms.vk.com
+1902933--2070309-111-mnews.ms.vk.com
+196195--88797119-111-mnews.ms.vk.com
+199151--28514668-111-mnews.ms.vk.com
 1l-hit.mail.ru
 23111.ms.vk.com
 23112.ms.vk.com
@@ -6,6 +10,7 @@
 24112.ms.vk.com
 25111.ms.vk.com
 25112.ms.vk.com
+2526323--6246566-111-mnews.ms.vk.com
 2542116.fls.doubleclick.net
 2no.co
 33211.ms.vk.com
@@ -44,6 +49,7 @@
 Doubleclick.net
 Media.net
 a-ring.msedge.net
+a.adspector.io
 a.kupibilet.ru
 a.utraff.com
 a.wb.ru
@@ -272,6 +278,7 @@ census-app.scorecardresearch.com
 cfg.imtt.qq.com
 check-tcp.rayjump.com
 ck.ads.oppomobile.com
+ck.silvermob.com
 claritybt.freshmarketer.com
 click.adtrace.io
 click.googleanalytics.com
@@ -317,6 +324,7 @@ crashlytics.com
 crashlyticsreports-pa.googleapis.com
 cs.luckyorange.net
 cs44.pikabu.ru
+csi.gstatic.com
 csp.yandex.net
 cstatic-ru-cv.weborama-tech.ru
 ct.pinterest.com
@@ -363,6 +371,7 @@ eastus2-3.in.applicationinsights.azure.com
 ed.tc
 edge.adobedc.net
 edge.ads.twitch.tv
+ee1-hangup.palmplaystore.com
 egv4py1c-android.mobile-messenger.intercom.com
 ep1.adtrafficquality.google
 errnewlog.umeng.com
@@ -395,6 +404,7 @@ ezfweb-launches.appsflyersdk.com
 ezstat.ru
 farsroid.com
 fcgi4.gnezdo.ru
+fecdn.trasre.com
 federatedcompute-pa.googleapis.com
 feedbackws.icloud.com
 files.r00t.us.kg
@@ -498,6 +508,9 @@ jryhoywlyxnlymahs.ay.delivery
 js.hs-scripts.com
 kavanga.ru
 kimberlite.io
+kiqsrh-cdn-settings.appsflyersdk.com
+kiqsrh-inapps.appsflyersdk.com
+kiqsrh-launches.appsflyersdk.com
 kraken.rambler.ru
 kumo.network-n.com
 l.getsitecontrol.com
@@ -535,6 +548,7 @@ mads.amazon-adsystem.com
 mamba.ru
 maper.info
 match.new-programmatic.com
+match.targetrtb.com
 matchid.adfox.yandex.ru
 matomo-el5.x5.ru
 matomo.com
@@ -598,6 +612,7 @@ o130922.ingest.sentry.io
 o2.mouseflow.com
 o298668.ingest.us.sentry.io
 o312638.ingest.us.sentry.io
+o33249.ingest.sentry.io
 o4504136533147648.ingest.us.sentry.io
 o4504695552606208.ingest.sentry.io
 o4505318649823232.ingest.sentry.io
@@ -645,6 +660,7 @@ pbs.alfasense.com
 phosphor-pa.googleapis.com
 pia.appsflyersdk.com
 pixel-config.reddit.com
+pixel.dsp.onetarget.ru
 pixel.facebook.com
 pixel.ipinfo.io
 pixeltrack.clientgear.com
@@ -672,6 +688,7 @@ r0.mail.ru
 r0.mradx.net
 rap.skcrtxr.com
 realtime.luckyorange.com
+redirect-frontend.weborama-tech.ru
 region1.app-measurement.com
 register.appsflyersdk.com
 relap.io
@@ -688,9 +705,11 @@ rt.applvn.com
 rtb-1.xxxshake.com
 rtb-2.xgroovy.com
 rtb-eu-warsaw.intent.ai
+rtb.dynotech.io
 rts.mobula.sdk.duapps.com
 ru.tracker-api.my.com
 rum.aliyuncs.com
+s-cs.rmp.rakuten.com
 s.amazon-adsystem.com
 s.jpush.cn
 s.uuidksinc.net
@@ -769,6 +788,7 @@ static.addtoany.com
 static.ads-twitter.com
 static.ads.brave.com
 static.aio.media
+static.cdn.admatic.com.tr
 static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
@@ -793,14 +813,17 @@ surveys.hotjar.com
 sync.bumlam.com
 sync.dmp.otm-r.com
 sync.gonet-ads.com
+sync.rambler.ru
 sync.upravel.com
 syndicatedsearch.goog
 syndication.twitter.com
 t-ring-fallback.msedge.net
 t-ring-s.msedge.net
 t-ring-s2.msedge.net
+t.adx.opera.com
 t.appsflyer.com
 t.pixai.art
+t.rtbwave.com
 tab.volces.com
 tag.a.mts.ru
 tag.rutarget.ru
@@ -849,6 +872,7 @@ ts.tracker-api.my.com
 ts.tracker-api.vk-analytics.ru
 tsis-ipv6.jpush.cn
 tsis.jpush.cn
+tt.ttarget.ru
 tube.buzzoola.com
 u.meizu.com
 uaas.yandex.ru
