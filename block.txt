@@ -323,6 +323,7 @@ cr-frontend.weborama-tech.ru
 cr.frontend.weborama.fr
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
+cs.avito.ru
 cs.luckyorange.net
 cs44.pikabu.ru
 csi.gstatic.com
@@ -725,6 +726,7 @@ sdk-02.moengage.com
 sdk-api-v1.singular.net
 sdk-api.apptracer.ru
 sdk-events.inner-active.mobi
+sdk.iad-04.braze.com
 sdk.iad-07.braze.com
 sdk.privacy-center.org
 sdk.verification.jiguang.cn
