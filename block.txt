@@ -1,3 +1,5 @@
+0f9796ff-3089-4d5e-bc9b-daddf0610bdb-netseer-ipaddr-assoc.xy.fbcdn.net
+0f9796ff-3089-4d5e-bc9b-daddf0610bdb-netseer-ipaddr-assoc.xz.fbcdn.net
 1000gem.org
 1419855--176841276-111-mnews.ms.vk.com
 1902933--2070309-111-mnews.ms.vk.com
@@ -13,6 +15,8 @@
 2526323--6246566-111-mnews.ms.vk.com
 2542116.fls.doubleclick.net
 2no.co
+30094219-8579-496a-b01b-a4c5f1cbf8cc-netseer-ipaddr-assoc.xy.fbcdn.net
+30094219-8579-496a-b01b-a4c5f1cbf8cc-netseer-ipaddr-assoc.xz.fbcdn.net
 33211.ms.vk.com
 34211.ms.vk.com
 35211.ms.vk.com
@@ -42,7 +46,15 @@
 652121.ms.vk.com
 652211.ms.vk.com
 652211.ms.vk.ru
+68d8ea3b-f9bb-4b3a-a71b-a696198af521-netseer-ipaddr-assoc.xy.fbcdn.net
+68d8ea3b-f9bb-4b3a-a71b-a696198af521-netseer-ipaddr-assoc.xz.fbcdn.net
 72pz2b.conversions.appsflyersdk.com
+7498c86d-539b-4b0d-b4cc-6b9f497e1b3e-netseer-ipaddr-assoc.xy.fbcdn.net
+7498c86d-539b-4b0d-b4cc-6b9f497e1b3e-netseer-ipaddr-assoc.xz.fbcdn.net
+782636c7-b878-403a-adfd-5f8e996a758e-netseer-ipaddr-assoc.xy.fbcdn.net
+782636c7-b878-403a-adfd-5f8e996a758e-netseer-ipaddr-assoc.xz.fbcdn.net
+8fda22d2-8f80-4f6f-beda-b6a85c720ba6-netseer-ipaddr-assoc.xy.fbcdn.net
+8fda22d2-8f80-4f6f-beda-b6a85c720ba6-netseer-ipaddr-assoc.xz.fbcdn.net
 931221.log.rutube.ru
 941221.log.rutube.ru
 951221.log.rutube.ru
@@ -61,6 +73,9 @@ abt.s3.yandex.net
 accounts.doubleclick.net
 acint.net
 acs.m.taobao.com
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 ad.3dnews.ru
 ad.adriver.ru
 ad.doubleclick.net
@@ -85,6 +100,7 @@ ads.betweendigital.com
 ads.linkedin.com
 ads.mozilla.org
 ads.pinterest.com
+ads.pubmatic.com
 ads.tiktok.com
 ads.yahoo.com
 ads.youtube.com
@@ -107,6 +123,7 @@ advice-ads.s3.amazonaws.com
 advisor.api.2gis.ru
 adx.ads.oppomobile.com
 adx.videonow.ru
+ae.iads.unity3d.com
 aefd.nelreports.net
 aemetrics.aliexpress.ru
 af.shalltry.com
@@ -134,6 +151,7 @@ analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
 analytics.regex101.com
 analytics.s3.amazonaws.com
+analytics.samsungknox.com
 analytics.sutochno.ru
 analytics.tiktok.com
 analytics.yahoo.com
@@ -153,6 +171,7 @@ api.deepstateplatypus.com
 api.flocktory.com
 api.gameanalytics.com
 api.hisavana.com
+api.learnings.ai
 api.luckyorange.com
 api.mindbox.ru
 api.mixpanel.com
@@ -160,6 +179,10 @@ api.mouseflow.com
 api.segment.io
 api.vigo.one
 api16-access-sg.pangle.io
+api16-access-ttp-b.tiktokpangle-b.us
+api16-access-ttp-b.tiktokpangle.us
+api16-access-ttp.tiktokpangle-b.us
+api16-access-ttp.tiktokpangle.us
 api2.amplitude.com
 api2.branch.io
 api3.siftscience.com
@@ -200,6 +223,8 @@ banners.adfox.ru
 bar.love.mail.ru
 bat.bing.com
 bc.ax
+bd95199b-3797-49b9-84a4-3a660ba1a8b4-netseer-ipaddr-assoc.xy.fbcdn.net
+bd95199b-3797-49b9-84a4-3a660ba1a8b4-netseer-ipaddr-assoc.xz.fbcdn.net
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 beacons.gcp.gvt2.com
@@ -297,6 +322,7 @@ cnlogs.umengcloud.com
 code.jivosite.com
 collector.github.com
 collector.superwall.me
+comet-test-fr.s3.eu-central-1.amazonaws.com
 confiant.msn.com
 config-ipv6.jpush.cn
 config.ads.vungle.com
@@ -305,6 +331,7 @@ config.inmobi.com
 config.jpush.cn
 config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
+configure-tcp-android.mtgglobals.com
 configure-tcp-ios.mtgglobals.com
 configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
@@ -341,6 +368,7 @@ d2v02itv0y9u9t.cloudfront.net
 d34r8q7sht0t9k.cloudfront.net
 dap.digitalgov.gov
 data-dda7d24eb2.derstandard.at
+data-events.cdn.viber.com
 data-getway.pixai.art
 data.ads.oppomobile.com
 data.flurry.com
@@ -354,6 +382,7 @@ dc.dqa.samsung.com
 dcintl.push.heytapmobile.com
 dcintl1.push.heytapmobile.com
 ddacn6pr5v0tl.cloudfront.net
+default.exp-tas.com
 deff.nelreports.net
 diagnostics.id5-sync.com
 dicardo.com
@@ -369,6 +398,10 @@ dsp.mpartner.digital
 dss.hybrid.ai
 e2c71.gcp.gvt2.com
 e2c81.gcp.gvt2.com
+e4c8f827-d3c3-4687-9908-90328349128f-netseer-ipaddr-assoc.xy.fbcdn.net
+e4c8f827-d3c3-4687-9908-90328349128f-netseer-ipaddr-assoc.xz.fbcdn.net
+e8512dd5-c2f1-42a2-859d-b64470ebe79c-netseer-ipaddr-assoc.xy.fbcdn.net
+e8512dd5-c2f1-42a2-859d-b64470ebe79c-netseer-ipaddr-assoc.xz.fbcdn.net
 eastus2-3.in.applicationinsights.azure.com
 ed.tc
 edge.adobedc.net
@@ -381,6 +414,7 @@ eu-assets.i.posthog.com
 eu.i.posthog.com
 euw-ice.360yield.com
 ev.adriver.ru
+event-portal.dailyinnovation.biz
 events-collector-dataplatform.action-media.ru
 events.appsflyer.com
 events.character.ai
@@ -404,7 +438,11 @@ ezfweb-conversions.appsflyersdk.com
 ezfweb-inapps.appsflyersdk.com
 ezfweb-launches.appsflyersdk.com
 ezstat.ru
+f58df70f-02d4-45d9-add4-0eb098bf06a8-netseer-ipaddr-assoc.xy.fbcdn.net
+f58df70f-02d4-45d9-add4-0eb098bf06a8-netseer-ipaddr-assoc.xz.fbcdn.net
 farsroid.com
+fcbdb7e1-6c39-430e-9572-12d0ef684cfc-netseer-ipaddr-assoc.xy.fbcdn.net
+fcbdb7e1-6c39-430e-9572-12d0ef684cfc-netseer-ipaddr-assoc.xz.fbcdn.net
 fcgi4.gnezdo.ru
 fecdn.trasre.com
 federatedcompute-pa.googleapis.com
@@ -427,6 +465,7 @@ fwtracks.freshmarketer.com
 g.ezoic.net
 g.live.com
 g.s.360.cn
+gateway.unityads.unity3d.com
 gator.volces.com
 gb4w8c3ygj-default-sea.rum.aliyuncs.com
 gcdsdk.appsflyersdk.com
@@ -467,6 +506,8 @@ hit.acstat.com
 hitcrypt.acstat.com
 hooks.slack.com
 hotlog.ru
+hqzcmw-cdn-settings.appsflyersdk.com
+hqzcmw-launches.appsflyersdk.com
 hshh.org
 htpebh-cdn-settings.appsflyersdk.com
 htpebh-launches.appsflyersdk.com
@@ -522,7 +563,9 @@ launches.appsflyersdk.com
 launchpad-wrapper.privacymanager.io
 lazy-tcp.rayjump.com
 lcdn.tsyndicate.com
+lf-static.tiktokpangle-cdn-us.com
 libcrashsdk.so
+live.chartboost.com
 live365.com
 livechatv2.chat2desk.com
 ln-ring.msedge.net
@@ -673,11 +716,14 @@ pmir.3g.qq.com
 pok.mintegral.net
 policy-tcp.rayjump.com
 pop.tspopx.com
+pre-bid.programmatica.com
 prebid.media.net
 privacy-cs.mail.ru
 privacy-sandbox.appsflyersdk.com
 prod.cm.publishers.advertising.a2z.com
+prod.tahoe-analytics.publishers.advertising.a2z.com
 provision.app.devapps.ru
+pubads.g.doubleclick.net
 public.profitwell.com
 pulse.jpush.cn
 pv-track.pxtrkapp.com
@@ -706,9 +752,11 @@ rt.applovin.com
 rt.applvn.com
 rtb-1.xxxshake.com
 rtb-2.xgroovy.com
+rtb-6.anysex.com
 rtb-eu-warsaw.intent.ai
 rtb.dynotech.io
 rts.mobula.sdk.duapps.com
+ru-event.dengage.com
 ru.tracker-api.my.com
 rum.aliyuncs.com
 s-cs.rmp.rakuten.com
@@ -733,8 +781,11 @@ sdk.verification.jiguang.cn
 sdkapi.dsp-api.moloco.com
 sdkapiv2.bizport.cn
 sdkauthhk.hpplay.cn
+sdkc.vervegroupinc.net
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdkopmetrics-eu.dsp-api.moloco.com
+sdkopmetrics-us.dsp-api.moloco.com
 secure-sts-prod.imrworldwide.com
 securepubads.g.doubleclick.net
 semanticlocation-pa.googleapis.com
@@ -749,6 +800,7 @@ setka.news
 settings.luckyorange.net
 sf16-static.i18n-pglstatp.com
 sgtm.ixbt.com
+shealth-analytics-api.samsunghealth.com
 sherpa.agoda.com
 shopnetic.com
 sis-ipv6.jpush.cn
@@ -766,6 +818,7 @@ spade.twitch.tv
 speed.acobt.tech
 spocs.getpocket.com
 spx.otm-r.com
+sr-client-cfg.amplitude.com
 srtb.msn.com
 ssl.google-analytics.com
 ssp-rtb.sape.ru
@@ -833,12 +886,14 @@ tag.rutarget.ru
 tags.bkrtx.com
 tags.soloway.ru
 target.microsoft.com
+tc-log.mattel163.com
 tech.rtb.mts.ru
 telem-edge.smartscreen.microsoft.com
 telemetry.api.swiftkey.com
 telemetry.individual.githubcopilot.com
 telemetry.jivo.ru
 telemetry.sdk.inmobi.com
+telemetry.tk0x1.com
 test.rutube.ru
 tganalytics.xyz
 thind.unityads.unity3d.com
@@ -867,6 +922,8 @@ tracking.appmetrica.yandex.net
 tracking.diginetica.net
 tracking.ott.yandex.net
 tracking.rus.miui.com
+trheoi-cdn-settings.appsflyersdk.com
+trheoi-launches.appsflyersdk.com
 tring.clo.footprintdns.com
 trk.pinterest.com
 trs.my.to
@@ -929,6 +986,7 @@ www.acint.net
 www.adsensecustomsearchads.com
 www.artfut.com
 www.clarity.ms
+www.exoclick.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
@@ -951,6 +1009,9 @@ xtrapath3.izatcloud.net
 yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yast.rutube.ru
+ycfypx-cdn-settings.appsflyersdk.com
+ycfypx-inapps.appsflyersdk.com
+ycfypx-launches.appsflyersdk.com
 yhb.p.otm-r.com
 yip.su
 ymetrica1.com
