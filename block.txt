@@ -205,6 +205,7 @@ applovin.com
 applvn.com
 appmetrica.yandex.ru
 appsflyer.com
+apptracer.ru
 assets.adobedtm.com
 assets.iterable.com
 assets.polarbyte.com
@@ -911,6 +912,7 @@ top-fwz1.mail.ru
 top1000-ru.hotlog.ru
 tpc.googlesyndication.com
 tr.iadsdk.apple.com
+trace-flow.ru
 track-us.bidease.com
 track.tiara.daum.net
 tracker-api.my.com
