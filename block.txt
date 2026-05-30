@@ -469,6 +469,7 @@ g.s.360.cn
 gateway.unityads.unity3d.com
 gator.volces.com
 gb4w8c3ygj-default-sea.rum.aliyuncs.com
+gcdn.2mdn.net
 gcdsdk.appsflyersdk.com
 gdeslon.ru
 gemini.yahoo.com
@@ -480,6 +481,7 @@ glitter.services.disqus.com
 globalapi.ad.xiaomi.com
 gnezdo.ru
 go.kopatearte.online
+go.siscprts.com
 google-analytics.com
 googleads.g.doubleclick.net
 googleadservices.com
@@ -557,6 +559,7 @@ kiqsrh-inapps.appsflyersdk.com
 kiqsrh-launches.appsflyersdk.com
 kraken.rambler.ru
 kumo.network-n.com
+kvinit-prod.api.kochava.com
 l.getsitecontrol.com
 launcher.spot.im
 launches.appsflyer.com
@@ -754,6 +757,7 @@ rt.applvn.com
 rtb-1.xxxshake.com
 rtb-2.xgroovy.com
 rtb-6.anysex.com
+rtb-6.mylust.com
 rtb-eu-warsaw.intent.ai
 rtb.dynotech.io
 rts.mobula.sdk.duapps.com
@@ -978,6 +982,7 @@ webview.unityads.unity3d.com
 westus-0.in.applicationinsights.azure.com
 wf-ru-frontend.weborama-tech.ru
 widget.sparrow.ru
+widget.trustpilot.com
 widgets.pexi.nl
 widgets.pinterest.com
 wl.gl
