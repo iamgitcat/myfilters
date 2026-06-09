@@ -81,10 +81,12 @@ ad.adriver.ru
 ad.doubleclick.net
 ad.mail.ru
 ad.new-programmatic.com
+ad.twinrdengine.com
 adaggreg-ali.shalltry.com
 adashx.ut.lazada.com
 adblockplus.telemetry.eyeo.com
 adc3-launch.adcolony.com
+ade.googlesyndication.com
 adeasy.ru
 adfox-hb-bidder.rutarget.ru
 adfox.ru
@@ -606,6 +608,7 @@ mazu.3g.qq.com
 mc.webvisor.org
 mc.yandex.com
 mc.yandex.ru
+mcs-ie2.tiktokw.eu
 mcs.tobsnssdk.com
 mdec.nelreports.net
 media-advcycle.imgsmail.ru
@@ -914,6 +917,7 @@ tools.3g.qq.com
 tools.mouseflow.com
 top-fwz1.mail.ru
 top1000-ru.hotlog.ru
+tp.media
 tpc.googlesyndication.com
 tr.iadsdk.apple.com
 trace-flow.ru
