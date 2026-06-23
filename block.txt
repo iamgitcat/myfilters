@@ -135,6 +135,8 @@ agent-server.sc-api.seaart.ai
 ahagamecenter.com
 aider-res.meizu.com
 aj2703.bid
+alogsus.umeng.com
+alogus.umeng.com
 alt-ad.mail.ru
 alt-cloud.radar.imgsmail.ru
 amazon-adsystem.com
@@ -943,6 +945,7 @@ ts.tracker-api.my.com
 ts.tracker-api.vk-analytics.ru
 tsis-ipv6.jpush.cn
 tsis.jpush.cn
+tsyndicate.com
 tt.ttarget.ru
 tube.buzzoola.com
 u.meizu.com
@@ -965,6 +968,7 @@ use1-turn.fpjs.io
 userlocation.googleapis.com
 ut.qwen.ai
 utbench.utorrent.com
+utoken.umeng.com
 uxip.meizu.com
 vast.ufouxbwn.com
 venetia.iad.appboy.com
