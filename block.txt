@@ -168,6 +168,7 @@ api.a.mts.ru
 api.ad.xiaomi.com
 api.amplitude.com
 api.applovefrom.com
+api.around.xxx
 api.bidmachine.io
 api.bugsnag.com
 api.cloudmobi.net
