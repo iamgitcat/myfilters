@@ -121,3 +121,9 @@ mixnews.lv###mxhs-widget > .mxhs-grid-container
 mixnews.lv##.mxhs-header
 mixnews.lv###mxhs-widget_offs2 > .mxhs-grid-container
 creator.nightcafe.studio##div.css-y8aj3r:nth-of-type(3) > .css-0
+
+web.telegram.org##.pinned-container.pinned-sponsored
+@@||max.ru^$first-party
+
+armor.wotinspector.com###Ad_7ccebaed176e4b6882236f3d73df481c > .mx-auto.my-4.max-w-screen-lg > .bg-destructive.text-destructive-foreground.px-1.leading-none
+armor.wotinspector.com###mobileWarning
