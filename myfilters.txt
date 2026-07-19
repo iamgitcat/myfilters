@@ -127,3 +127,8 @@ web.telegram.org##.pinned-container.pinned-sponsored
 
 armor.wotinspector.com###Ad_7ccebaed176e4b6882236f3d73df481c > .mx-auto.my-4.max-w-screen-lg > .bg-destructive.text-destructive-foreground.px-1.leading-none
 armor.wotinspector.com###mobileWarning
+5ka.ru##.appBanner_appImage__A5foi.css-0
+5ka.ru##.appBanner_content__UAgQn.css-0
+5ka.ru##.videoBanner_player__UW8OO
+5ka.ru##.videoBanner_videoBanner__S8L1R.css-0
+5ka.ru##.chakra-heading.videoBanner_heading__ZyedT.css-b4vkjy
