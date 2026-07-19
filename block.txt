@@ -295,6 +295,7 @@ cdn.ravenjs.com
 cdn.rutarget.ru
 cdn.skcrtxr.com
 cdn.snigelweb.com
+cdn.targetads.io
 cdn.tinypass.com
 cdn.viafoura.net
 cdn01.nativeroll.tv
@@ -326,6 +327,7 @@ cm.tns-counter.ru
 cnb.cnews.ru
 cnlogs.umeng.com
 cnlogs.umengcloud.com
+code.bbj3nb.ru
 code.jivosite.com
 collector.github.com
 collector.superwall.me
@@ -403,6 +405,7 @@ dpm.demdex.net
 dsc-test.shalltry.com
 dsp.mpartner.digital
 dss.hybrid.ai
+e2c16.gcp.gvt2.com
 e2c71.gcp.gvt2.com
 e2c81.gcp.gvt2.com
 e4c8f827-d3c3-4687-9908-90328349128f-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -742,6 +745,7 @@ px.adhigh.net
 px.ads.linkedin.com
 px.arcspire.io
 px.staticfiles.at
+px4.admon.pro
 qntm.pro
 r0.mail.ru
 r0.mradx.net
