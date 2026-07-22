@@ -16,9 +16,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install sing-box
+- name: Install latest sing-box
         run: |
-          curl -Lo sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.8.10/sing-box-1.8.10-linux-amd64.tar.gz
+          LATEST_TAG=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name":' | sed -E 's/.*"v([^"]+)".*/\1/')
+          curl -Lo sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_TAG}/sing-box-${LATEST_TAG}-linux-amd64.tar.gz"
           tar -xzf sing-box.tar.gz
           mv sing-box-*/sing-box .
           chmod +x sing-box
