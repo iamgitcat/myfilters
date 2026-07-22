@@ -1,3 +1,4 @@
+# ✂️ --- START: main.yml ---
 name: Compile sing-box rule-sets 🔥
 
 on:
@@ -31,13 +32,14 @@ jobs:
           sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
           echo ']}]}' >> block.json
           
-          # Компиляция в бинарный формат .srs
+          # Компиляция в бинарный формат .srs для мобилок
           ./sing-box rule-set compile --output block.srs block.json
 
       - name: Push results 🚀
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add block.srs
-          git commit -m "Update binary blocklist: $(date)" || exit 0
+          git add block.json block.srs
+          git commit -m "Update blocklists (JSON & SRS): $(date)" || exit 0
           git push
+# 🛑 --- END: main.yml ---
