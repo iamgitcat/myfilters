@@ -28,12 +28,12 @@ jobs:
 # ✂️ --- START: compile_step ---
       - name: Compile Blocklist 🛠
         run: |
-          # Для JSON source всегда используется version: 1
+          # Формируем стандартный JSON v1
           echo '{"version": 1, "rules": [{"domain": [' > block.json
           sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
           echo ']}]}' >> block.json
           
-          # Компиляция в бинарный формат .srs для мобилок
+          # Компиляция в бинарный .srs
           ./sing-box rule-set compile --output block.srs block.json
 # 🛑 --- END: compile_step ---
 
