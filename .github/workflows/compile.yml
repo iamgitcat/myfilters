@@ -25,15 +25,17 @@ jobs:
           mv sing-box-*/sing-box .
           chmod +x sing-box
 
+# ✂️ --- START: compile_step ---
       - name: Compile Blocklist 🛠
         run: |
-          # Формируем JSON v3 из block.txt
-          echo '{"version": 3, "rules": [{"domain": [' > block.json
+          # Для JSON source всегда используется version: 1
+          echo '{"version": 1, "rules": [{"domain": [' > block.json
           sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
           echo ']}]}' >> block.json
           
           # Компиляция в бинарный формат .srs для мобилок
           ./sing-box rule-set compile --output block.srs block.json
+# 🛑 --- END: compile_step ---
 
       - name: Push results 🚀
         run: |
