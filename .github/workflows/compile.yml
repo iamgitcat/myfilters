@@ -26,8 +26,8 @@ jobs:
 
       - name: Compile Blocklist 🛠
         run: |
-          # Формируем JSON из block.txt
-          echo '{"version": 1, "rules": [{"domain": [' > block.json
+          # Формируем JSON v3 из block.txt
+          echo '{"version": 3, "rules": [{"domain": [' > block.json
           sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
           echo ']}]}' >> block.json
           
