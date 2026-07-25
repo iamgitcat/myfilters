@@ -275,6 +275,7 @@ capture.trackjs.com
 careers.hotjar.com
 cc-api.hisavana.com
 cdn-fc.com
+cdn-magiclinks.trackonomics.net
 cdn-rtb.sape.ru
 cdn-settings.appsflyersdk.com
 cdn-settings.segment.com
@@ -676,6 +677,7 @@ o2.mouseflow.com
 o298668.ingest.us.sentry.io
 o312638.ingest.us.sentry.io
 o33249.ingest.sentry.io
+o427368.ingest.sentry.io
 o4504136533147648.ingest.us.sentry.io
 o4504695552606208.ingest.sentry.io
 o4505318649823232.ingest.sentry.io
