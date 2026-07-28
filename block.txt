@@ -225,6 +225,7 @@ ax.amnezia.org
 az416426.vo.msecnd.net
 b.delivery.consentmanager.net
 b2.mail.ru
+b78b4967757bf45d79337d8813b1a78db8ae7fdc9efe716afe308957daa6468.us-east-1.prod.service.minerva.devices.a2z.com
 b98.yahoo.co.jp
 banners-website.wildberries.ru
 banners.adfox.ru
@@ -290,6 +291,7 @@ cdn.consentmanager.mgr.consensu.org
 cdn.consentmanager.net
 cdn.cookielaw.org
 cdn.diginetica.net
+cdn.dsp-rambler.ru
 cdn.iads.unity3d.com
 cdn.id5-sync.com
 cdn.luckyorange.com
@@ -422,6 +424,7 @@ e8512dd5-c2f1-42a2-859d-b64470ebe79c-netseer-ipaddr-assoc.xy.fbcdn.net
 e8512dd5-c2f1-42a2-859d-b64470ebe79c-netseer-ipaddr-assoc.xz.fbcdn.net
 eastus2-3.in.applicationinsights.azure.com
 easytomessage.com
+ecsv2.roblox.com
 ed.tc
 edge.adobedc.net
 edge.ads.twitch.tv
@@ -540,6 +543,7 @@ httpdns-push.heytapmobile.com
 hybridclient.naiadsystems.com
 i-666.b-0.ad.bench.utorrent.com
 i-sdk.mediation.unity3d.com
+i.mxplayer.j2inter.com
 iadsdk.apple.com
 identify.hotjar.com
 ih4bsf-cdn-settings.appsflyersdk.com
@@ -664,6 +668,7 @@ mta4.directcrm.ru
 mta9-1.directcrm.ru
 mum.alibabachengdun.com
 mvconf.f.360.cn
+mxvp-feature-toggle-prod-1.zenmxapps.com
 mytop.live.vkvideo.ru
 navvy.media.net
 nelreports.net
