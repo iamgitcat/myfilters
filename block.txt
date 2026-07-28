@@ -109,6 +109,7 @@ ads.yahoo.com
 ads.youtube.com
 ads30.adcolony.com
 adsdk.microsoft.com
+adsdk.zeasn.tv
 adserver.unityads.unity3d.com
 adservetx.media.net
 adservice.google.com
@@ -318,9 +319,11 @@ check-tcp.rayjump.com
 ck.ads.oppomobile.com
 ck.silvermob.com
 claritybt.freshmarketer.com
+clevertap-prod.com
 click.adtrace.io
 click.googleanalytics.com
 click.oneplus.cn
+clickbeat.sberdevices.ru
 client.arongroups.co
 clientsdk.launchdarkly.com
 cloud.roistat.com
@@ -429,6 +432,8 @@ errnewlog.umeng.com
 errnewlogos.umeng.com
 eu-assets.i.posthog.com
 eu.i.posthog.com
+eu1-spiky.clevertap-prod.com
+eu1.clevertap-prod.com
 euw-ice.360yield.com
 ev.adriver.ru
 event-portal.dailyinnovation.biz
@@ -739,6 +744,7 @@ pmir.3g.qq.com
 pok.mintegral.net
 policy-tcp.rayjump.com
 pop.tspopx.com
+ppb-eu2.ulxarenth.info
 pre-bid.programmatica.com
 prebid.media.net
 privacy-cs.mail.ru
@@ -759,6 +765,7 @@ qntm.pro
 r0.mail.ru
 r0.mradx.net
 rap.skcrtxr.com
+rb.infox.sg
 realtime.luckyorange.com
 redirect-frontend.weborama-tech.ru
 region1.app-measurement.com
