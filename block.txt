@@ -410,6 +410,7 @@ dsc-test.shalltry.com
 dsp.mpartner.digital
 dss.hybrid.ai
 e2c16.gcp.gvt2.com
+e2c56.gcp.gvt2.com
 e2c71.gcp.gvt2.com
 e2c81.gcp.gvt2.com
 e4c8f827-d3c3-4687-9908-90328349128f-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -425,6 +426,7 @@ ee1-hangup.palmplaystore.com
 egv4py1c-android.mobile-messenger.intercom.com
 ep1.adtrafficquality.google
 errnewlog.umeng.com
+errnewlogos.umeng.com
 eu-assets.i.posthog.com
 eu.i.posthog.com
 euw-ice.360yield.com
@@ -472,6 +474,7 @@ fourier.alibaba.com
 fourier.taobao.com
 foxit.us-6.evergage.com
 fp-it.fengkongcloud.com
+fp-sa-it-acc.fengkongcloud.com
 fp.msedge.net
 fpt.microsoft.com
 freshmarketer.com
@@ -775,6 +778,7 @@ rtb-1.xxxshake.com
 rtb-2.xgroovy.com
 rtb-6.anysex.com
 rtb-6.mylust.com
+rtb-6.xxxshake.com
 rtb-eu-warsaw.intent.ai
 rtb.dynotech.io
 rts.mobula.sdk.duapps.com
@@ -822,6 +826,7 @@ setka.news
 settings.luckyorange.net
 sf16-static.i18n-pglstatp.com
 sg-fp.apitd.net
+sg-ifp.apitd.net
 sgtm.ixbt.com
 shealth-analytics-api.samsunghealth.com
 sherpa.agoda.com
@@ -844,6 +849,8 @@ spx.otm-r.com
 sr-client-cfg.amplitude.com
 srtb.msn.com
 ssl.google-analytics.com
+sslcert-ipv6.jpush.cn
+sslcert.jpush.cn
 ssp-rtb.sape.ru
 ssp.adriver.ru
 ssp.al-adtech.com
@@ -937,6 +944,7 @@ tpc.googlesyndication.com
 tr.iadsdk.apple.com
 trace-flow.ru
 track-us.bidease.com
+track.tenjin.com
 track.tiara.daum.net
 tracker-api.my.com
 tracker-api.vk-analytics.ru
