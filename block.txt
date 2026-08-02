@@ -100,6 +100,7 @@ ads-api.twitter.com
 ads-api.x.com
 ads-sg.tiktok.com
 ads.adfox.ru
+ads.adthrive.com
 ads.betweendigital.com
 ads.linkedin.com
 ads.mozilla.org
@@ -251,6 +252,7 @@ bjuser-ipv6.jpush.cn
 bjuser.jpush.cn
 bonuscake.ru
 books-analytics-events.apple.com
+bordeaux.futurecdn.net
 branch.io
 browser-intake-datadoghq.com
 browser-intake-us5-datadoghq.com
@@ -273,6 +275,7 @@ c.office.com
 c.tensor.art
 c1.microsoft.com
 c3se4i.ru
+cache.pythia.futureplc.com
 cafebazaar.ir
 capture.trackjs.com
 careers.hotjar.com
@@ -320,6 +323,7 @@ ced-ns.sascdn.com
 ced.sascdn.com
 census-app.scorecardresearch.com
 cfg.imtt.qq.com
+champagne.futurecdn.net
 check-tcp.rayjump.com
 ck.ads.oppomobile.com
 ck.silvermob.com
@@ -358,6 +362,7 @@ configure-tcp.rayjump.com
 configv2.unityads.unity3d.com
 connect.facebook.net
 consent.cookiebot.com
+content-loader.com
 content.adfox.ru
 content.adriver.ru
 conversions.appsflyersdk.com
@@ -376,6 +381,7 @@ cs.luckyorange.net
 cs44.pikabu.ru
 csi.gstatic.com
 csp.yandex.net
+css-load.com
 cstatic-ru-cv.weborama-tech.ru
 ct.pinterest.com
 ctimages.servefilesonly.com
@@ -418,9 +424,12 @@ dsc-test.shalltry.com
 dsp.mpartner.digital
 dss.hybrid.ai
 e2c16.gcp.gvt2.com
+e2c52.gcp.gvt2.com
+e2c54.gcp.gvt2.com
 e2c56.gcp.gvt2.com
 e2c71.gcp.gvt2.com
 e2c81.gcp.gvt2.com
+e2c82.gcp.gvt2.com
 e4c8f827-d3c3-4687-9908-90328349128f-netseer-ipaddr-assoc.xy.fbcdn.net
 e4c8f827-d3c3-4687-9908-90328349128f-netseer-ipaddr-assoc.xz.fbcdn.net
 e8512dd5-c2f1-42a2-859d-b64470ebe79c-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -469,6 +478,8 @@ ezstat.ru
 f58df70f-02d4-45d9-add4-0eb098bf06a8-netseer-ipaddr-assoc.xy.fbcdn.net
 f58df70f-02d4-45d9-add4-0eb098bf06a8-netseer-ipaddr-assoc.xz.fbcdn.net
 farsroid.com
+fb.content-loader.com
+fb.html-load.com
 fcbdb7e1-6c39-430e-9572-12d0ef684cfc-netseer-ipaddr-assoc.xy.fbcdn.net
 fcbdb7e1-6c39-430e-9572-12d0ef684cfc-netseer-ipaddr-assoc.xz.fbcdn.net
 fcgi4.gnezdo.ru
@@ -489,6 +500,7 @@ fp-sa-it-acc.fengkongcloud.com
 fp.msedge.net
 fpt.microsoft.com
 freshmarketer.com
+freyr.futurecdn.net
 fundingchoicesmessages.google.com
 fwtracks.freshmarketer.com
 g.ezoic.net
@@ -525,6 +537,7 @@ grs.dbankcloud.com
 grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
+grubbytrain.com
 gtm.mouseflow.com
 gum.criteo.com
 gw.mediation.unity3d.com
@@ -540,6 +553,7 @@ hotlog.ru
 hqzcmw-cdn-settings.appsflyersdk.com
 hqzcmw-launches.appsflyersdk.com
 hshh.org
+html-load.com
 htpebh-cdn-settings.appsflyersdk.com
 htpebh-launches.appsflyersdk.com
 httpdns-push.heytapmobile.com
@@ -817,6 +831,7 @@ sdk-api.apptracer.ru
 sdk-events.inner-active.mobi
 sdk.iad-04.braze.com
 sdk.iad-07.braze.com
+sdk.mrf.io
 sdk.privacy-center.org
 sdk.verification.jiguang.cn
 sdkapi.dsp-api.moloco.com
@@ -855,6 +870,7 @@ smetrics.aem.playstation.com
 smetrics.samsung.com
 smi24.kz
 snapdrop.net
+sommelier.futurehybrid.tech
 sp-ao.shortpixel.ai
 sp.aviasales.com
 spade.twitch.tv
@@ -862,6 +878,7 @@ speed.acobt.tech
 spocs.getpocket.com
 spx.otm-r.com
 sr-client-cfg.amplitude.com
+sr.studiostack.com
 srtb.msn.com
 ssl.google-analytics.com
 sslcert-ipv6.jpush.cn
@@ -932,6 +949,7 @@ tag.rutarget.ru
 tags.bkrtx.com
 tags.soloway.ru
 target.microsoft.com
+targetemsecure.blob.core.windows.net
 tc-log.mattel163.com
 tech.rtb.mts.ru
 telem-edge.smartscreen.microsoft.com
@@ -951,6 +969,7 @@ tnc16-alisg.isnssdk.com
 tnc16-useast1a.byteoversea.com
 tns-counter.ru
 to8fca-cdn-settings.appsflyersdk.com
+tonnelier.futurehybrid.tech
 tools.3g.qq.com
 tools.mouseflow.com
 top-fwz1.mail.ru
@@ -988,6 +1007,7 @@ u.meizu.com
 uaas.yandex.ru
 udc.yahoo.com
 udcm.yahoo.com
+uk-script.dotmetrics.net
 ultraleads.g2afse.com
 umeng.com
 umengacs.m.taobao.com
