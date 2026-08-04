@@ -340,6 +340,7 @@ cloudservice14.kingsoft-office-service.com
 cloudservice24.kingsoft-office-service.com
 cm.a.mts.ru
 cm.tns-counter.ru
+cmp.osano.com
 cnb.cnews.ru
 cnlogs.umeng.com
 cnlogs.umengcloud.com
