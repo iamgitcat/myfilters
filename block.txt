@@ -219,6 +219,7 @@ assets.adobedtm.com
 assets.iterable.com
 assets.polarbyte.com
 at.atwola.com
+ats-wrapper.privacymanager.io
 attr.appsflyersdk.com
 auction.unityads.unity3d.com
 audid.umeng.com
@@ -296,6 +297,7 @@ cdn.consentmanager.mgr.consensu.org
 cdn.consentmanager.net
 cdn.cookielaw.org
 cdn.diginetica.net
+cdn.dmtgvn.com
 cdn.dsp-rambler.ru
 cdn.iads.unity3d.com
 cdn.id5-sync.com
@@ -814,6 +816,7 @@ rtb.dynotech.io
 rts.mobula.sdk.duapps.com
 ru-event.dengage.com
 ru.tracker-api.my.com
+ru.viadata.store
 rum.aliyuncs.com
 s-cs.rmp.rakuten.com
 s.amazon-adsystem.com
@@ -843,6 +846,7 @@ sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdkopmetrics-eu.dsp-api.moloco.com
 sdkopmetrics-us.dsp-api.moloco.com
+sdkwhd4nja.kameleoon.io
 secure-sts-prod.imrworldwide.com
 securepubads.g.doubleclick.net
 semanticlocation-pa.googleapis.com
@@ -897,6 +901,7 @@ star-randsrv.bsg.brave.com
 startup-mobile.ap.yandex-net.ru
 stat-analytics.mediavitrina.ru
 stat.its.porn
+stat.media
 stat.pravdafrance.com
 stat.radar.imgsmail.ru
 stat.sputnik.ru
