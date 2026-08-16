@@ -60,6 +60,7 @@
 931221.log.rutube.ru
 941221.log.rutube.ru
 951221.log.rutube.ru
+9zje6z.cdn-settings.appsflyersdk.com
 Doubleclick.net
 Media.net
 a-ring.msedge.net
@@ -301,6 +302,7 @@ cdn.dmtgvn.com
 cdn.dsp-rambler.ru
 cdn.iads.unity3d.com
 cdn.id5-sync.com
+cdn.iubenda.com
 cdn.luckyorange.com
 cdn.mouseflow.com
 cdn.optimizely.com
@@ -874,6 +876,7 @@ sm.rtb.mts.ru
 smetrics.aem.playstation.com
 smetrics.samsung.com
 smi24.kz
+sms-static.eagllwin.com
 snapdrop.net
 sommelier.futurehybrid.tech
 sp-ao.shortpixel.ai
@@ -1043,6 +1046,7 @@ videofarm.daum.net
 visor.sberbank.ru
 vk-analytics.ru
 vkcache.com
+vlscppe.microsoft.com
 w1.luckyorange.com
 w3-reporting-nel.reddit.com
 wcm.weborama-tech.ru
@@ -1063,7 +1067,9 @@ wv.inner-active.mobi
 www.acint.net
 www.adsensecustomsearchads.com
 www.artfut.com
+www.branch.io
 www.clarity.ms
+www.dkdun.cn
 www.exoclick.com
 www.google-analytics.com
 www.googleadservices.com
