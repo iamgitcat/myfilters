@@ -1,27 +1,44 @@
-# ✂️ --- START: compile_and_push ---
+# ✂️ --- START: manual.yml ---
+name: Manual Compile sing-box rule-sets 🛠
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install latest sing-box
+        run: |
+          LATEST_TAG=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name":' | sed -E 's/.*"v([^"]+)".*/\1/')
+          curl -Lo sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_TAG}/sing-box-${LATEST_TAG}-linux-amd64.tar.gz"
+          tar -xzf sing-box.tar.gz
+          mv sing-box-*/sing-box .
+          chmod +x sing-box
+
       - name: Compile Manual Rule-sets 🛠
         run: |
-          echo "📁 Current directory contents:"
+          echo "📁 Checking root workspace:"
           ls -la
 
-          # Проверяем наличие хотя бы одного исходника
-          if [ ! -f "manualtxt.txt" ] && [ ! -f "manual.json" ]; then
-            echo "❌ Error: Neither manualtxt.txt nor manual.json found in repository root!"
-            exit 1
-          fi
-
-          # 1. Из обычного списка доменов manualtxt.txt собираем manualtxt.json и manualtxt.srs
-          if [ -f manualtxt.txt ]; then
-            echo "⚙️ Compiling manualtxt.txt..."
+          # 1. Сборка из manualtxt.txt
+          if [ -f "manualtxt.txt" ]; then
+            echo "⚙️ Found manualtxt.txt -> generating manualtxt.srs"
             echo '{"version": 1, "rules": [{"domain": [' > manualtxt.json
             sed 's/^/"/;s/$/",/' manualtxt.txt | sed '$ s/,$//' >> manualtxt.json
             echo ']}]}' >> manualtxt.json
             ./sing-box rule-set compile --output manualtxt.srs manualtxt.json
           fi
 
-          # 2. Из готового manual.json компилируем manual.srs
-          if [ -f manual.json ]; then
-            echo "⚙️ Compiling manual.json..."
+          # 2. Сборка из manual.json
+          if [ -f "manual.json" ]; then
+            echo "⚙️ Found manual.json -> generating manual.srs"
             ./sing-box rule-set compile --output manual.srs manual.json
           fi
 
@@ -30,11 +47,10 @@
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
           git add manualtxt.json manualtxt.srs manual.srs 2>/dev/null || true
-          git status
           if git diff --staged --quiet; then
-            echo "ℹ️ No changes detected to commit."
+            echo "ℹ️ No changes to commit"
           else
             git commit -m "Update manual rule-sets: $(date)"
             git push
           fi
-# 🛑 --- END: compile_and_push ---
+# 🛑 --- END: manual.yml ---
