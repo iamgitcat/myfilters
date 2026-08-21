@@ -1,0 +1,47 @@
+# ✂️ --- START: main.yml ---
+name: Compile sing-box rule-sets 🔥
+
+on:
+  push:
+    paths:
+      - 'block.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install latest sing-box
+        run: |
+          LATEST_TAG=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name":' | sed -E 's/.*"v([^"]+)".*/\1/')
+          curl -Lo sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_TAG}/sing-box-${LATEST_TAG}-linux-amd64.tar.gz"
+          tar -xzf sing-box.tar.gz
+          mv sing-box-*/sing-box .
+          chmod +x sing-box
+
+# ✂️ --- START: compile_step ---
+      - name: Compile Blocklist 🛠
+        run: |
+          # Формируем стандартный JSON v1
+          echo '{"version": 1, "rules": [{"domain": [' > block.json
+          sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
+          echo ']}]}' >> block.json
+          
+          # Компиляция в бинарный .srs
+          ./sing-box rule-set compile --output block.srs block.json
+# 🛑 --- END: compile_step ---
+
+      - name: Push results 🚀
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add block.json block.srs
+          git commit -m "Update blocklists (JSON & SRS): $(date)" || exit 0
+          git push
+# 🛑 --- END: main.yml ---
