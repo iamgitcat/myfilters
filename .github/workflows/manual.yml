@@ -1,36 +1,19 @@
-# ✂️ --- START: manual.yml ---
-name: Manual Compile Rule-Set 🛠
-
-on:
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Install latest sing-box
-        run: |
-          LATEST_TAG=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name":' | sed -E 's/.*"v([^"]+)".*/\1/')
-          curl -Lo sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_TAG}/sing-box-${LATEST_TAG}-linux-amd64.tar.gz"
-          tar -xzf sing-box.tar.gz
-          mv sing-box-*/sing-box .
-          chmod +x sing-box
-
+# ✂️ --- START: manual_steps ---
       - name: Compile Manual SRS 🚀
         run: |
-          ./sing-box rule-set compile --type domain --output manual.srs manual.txt
+          # Собираем минимальный валидный JSON v1 на лету без сохранения мусора
+          echo '{"version": 1, "rules": [{"domain": [' > manual.json
+          sed 's/^/"/;s/$/",/' manual.txt | sed '$ s/,$//' >> manual.json
+          echo ']}]}' >> manual.json
+          
+          ./sing-box rule-set compile --output manual.srs manual.json
+          rm -f manual.json
 
       - name: Push results 📦
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
           git add manual.srs
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update manual SRS: $(date)"
+          git diff --staged --quiet || git commit -m "Update manual SRS: $(date)"
           git push
-# 🛑 --- END: manual.yml ---
+# 🛑 --- END: manual_steps ---
