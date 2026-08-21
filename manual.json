@@ -1,0 +1,38 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tanki.su",
+        "korabli.su",
+        "tanksblitz.ru",
+        "mirtankov.ru",
+        "lesta.ru",
+        "lesta.tech"
+      ]
+    },
+    {
+      "domain": [
+        "login.p1.tanki.su",
+        "login.p2.tanki.su",
+        "login.p3.tanki.su",
+        "login.p4.tanki.su",
+        "login.p5.tanki.su",
+        "login.p6.tanki.su",
+        "login.p8.tanki.su",
+        "login.p9.tanki.su",
+        "cybersport.tanki.su",
+        "promo.tanki.su",
+        "tanki-media-content.tanki.su",
+        "wiki.lesta.ru",
+        "read.korabli.lesta.ru"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "cdn",
+        "gcdn"
+      ]
+    }
+  ]
+}
