@@ -134,3 +134,4 @@ armor.wotinspector.com###mobileWarning
 5ka.ru##.chakra-heading.videoBanner_heading__ZyedT.css-b4vkjy
 
 wotstars.com###root > div:nth-child(4)
+https://www.pochta.ru/account
