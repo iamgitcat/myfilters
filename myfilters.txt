@@ -134,4 +134,17 @@ armor.wotinspector.com###mobileWarning
 5ka.ru##.chakra-heading.videoBanner_heading__ZyedT.css-b4vkjy
 
 wotstars.com###root > div:nth-child(4)
-https://www.pochta.ru/account
+
+
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-7f0fa0d0-0.cyvaAg.ksKDdc
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-7f0fa0d0-0.cyvaAg.gHVsrj
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-7f0fa0d0-0.cyvaAg.kUJtYu
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-6348bbae-8.cXCxWo.kpIktj > section.Box-sc-7ax6ia-0.iXLXZb:nth-of-type(6)
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-6348bbae-8.cXCxWo.kpIktj > section.Box-sc-7ax6ia-0.iXLXZb:nth-of-type(5)
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-6348bbae-8.cXCxWo.kpIktj > section.Box-sc-7ax6ia-0.iXLXZb:nth-of-type(2)
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-6348bbae-8.cXCxWo.kpIktj
+www.pochta.ru##section.Box-sc-7ax6ia-0.iXLXZb:nth-of-type(8)
+www.pochta.ru##section.Box-sc-7ax6ia-0.iXLXZb:nth-of-type(7)
+www.pochta.ru##[src*="\/assets\/Pers_Account_x1_1_1_f05c99a6b9\.png"]
+www.pochta.ru##[src*="\/assets\/Banner_Otkrytki_veb_f842521def\.png"]
+www.pochta.ru##.GridBox-sc-a3sce5-0.sc-528b411-4.lcGReb.jleOdu
