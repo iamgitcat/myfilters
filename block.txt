@@ -458,6 +458,7 @@ egv4py1c-android.mobile-messenger.intercom.com
 ep1.adtrafficquality.google
 errnewlog.umeng.com
 errnewlogos.umeng.com
+error-tracking.reddit.com
 eu-assets.i.posthog.com
 eu.i.posthog.com
 eu1-spiky.clevertap-prod.com
@@ -721,6 +722,7 @@ o2.mouseflow.com
 o298668.ingest.us.sentry.io
 o312638.ingest.us.sentry.io
 o33249.ingest.sentry.io
+o416616.ingest.us.sentry.io
 o427368.ingest.sentry.io
 o4504136533147648.ingest.us.sentry.io
 o4504695552606208.ingest.sentry.io
@@ -769,6 +771,7 @@ partnerads.ysm.yahoo.com
 pb.adriver.ru
 pbs.alfasense.com
 phosphor-pa.googleapis.com
+pi.reddit.com
 pia.appsflyersdk.com
 pixel-config.reddit.com
 pixel.dsp.onetarget.ru
@@ -1064,6 +1067,7 @@ vkcache.com
 vlscppe.microsoft.com
 w1.luckyorange.com
 w3-reporting-nel.reddit.com
+w3-reporting.reddit.com
 wcm.weborama-tech.ru
 wd.adcolony.com
 weather-analytics-events.apple.com
