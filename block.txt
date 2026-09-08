@@ -423,6 +423,7 @@ dcintl1.push.heytapmobile.com
 ddacn6pr5v0tl.cloudfront.net
 default.exp-tas.com
 deff.nelreports.net
+device.maxmind.com
 diagnostics.id5-sync.com
 dicardo.com
 direct.yandex.ru
@@ -556,6 +557,7 @@ grubbytrain.com
 gtm.mouseflow.com
 gum.criteo.com
 gw.mediation.unity3d.com
+gw2.botfaqtor.ru
 h-adashx.ut.lazada.com
 h5.eagllwin.com
 hb-bidder.skcrtxr.com
