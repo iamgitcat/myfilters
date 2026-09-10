@@ -1,4 +1,4 @@
-# ✂️ --- START: main.yml ---
+# // 🟢 workflow_main
 name: Compile sing-box rule-sets 🔥
 
 on:
@@ -25,23 +25,35 @@ jobs:
           mv sing-box-*/sing-box .
           chmod +x sing-box
 
-# ✂️ --- START: compile_step ---
       - name: Compile Blocklist 🛠
         run: |
-          # Формируем стандартный JSON v1
           echo '{"version": 1, "rules": [{"domain": [' > block.json
           sed 's/^/"/;s/$/",/' block.txt | sed '$ s/,$//' >> block.json
           echo ']}]}' >> block.json
           
-          # Компиляция в бинарный .srs
           ./sing-box rule-set compile --output block.srs block.json
-# 🛑 --- END: compile_step ---
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Compile geosite block.dat 📦
+        run: |
+          git clone --depth=1 https://github.com/v2fly/domain-list-community.git dlc
+          mkdir -p dlc_data
+          cp block.txt dlc_data/block
+          cd dlc
+          go run ./ --datapath=../dlc_data --outputname=block.dat
+          mv block.dat ../block.dat
+          cd ..
+          rm -rf dlc dlc_data
 
       - name: Push results 🚀
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions[bot]"
-          git add block.json block.srs
-          git commit -m "Update blocklists (JSON & SRS): $(date)" || exit 0
+          git add block.json block.srs block.dat
+          git commit -m "Update blocklists (JSON, SRS & DAT): $(date)" || exit 0
           git push
-# 🛑 --- END: main.yml ---
+# // 🔴 workflow_main
