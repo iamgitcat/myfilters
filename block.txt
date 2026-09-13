@@ -25,6 +25,7 @@
 33211.ms.vk.com
 34211.ms.vk.com
 35211.ms.vk.com
+3dns.vip
 43211.ms.vk.com
 44211.ms.vk.com
 45211.ms.vk.com
@@ -64,6 +65,7 @@
 8fda22d2-8f80-4f6f-beda-b6a85c720ba6-netseer-ipaddr-assoc.xy.fbcdn.net
 8fda22d2-8f80-4f6f-beda-b6a85c720ba6-netseer-ipaddr-assoc.xz.fbcdn.net
 931221.log.rutube.ru
+93ucrn4i0pffuabk.v.3dns.vip
 941221.log.rutube.ru
 951221.log.rutube.ru
 9zje6z.cdn-settings.appsflyersdk.com
@@ -193,6 +195,7 @@ api.mindbox.ru
 api.mixpanel.com
 api.mouseflow.com
 api.segment.io
+api.tavuner.com
 api.vigo.one
 api16-access-sg.pangle.io
 api16-access-ttp-b.tiktokpangle-b.us
@@ -327,6 +330,7 @@ cdnauth1.hpplay.cn
 cdnauth2.hpplay.cn
 cdnssl.clicktale.net
 cdp.cloud.unity3d.com
+ce0gedpxwou6cqon.v.3dns.vip
 ce3e75d5-ipv6.jpush.cn
 ce3e75d5.jpush.cn
 ced-ns.sascdn.com
@@ -357,6 +361,7 @@ cnlogs.umeng.com
 cnlogs.umengcloud.com
 code.bbj3nb.ru
 code.jivosite.com
+collector.faphouse.com
 collector.github.com
 collector.superwall.me
 comet-test-fr.s3.eu-central-1.amazonaws.com
@@ -578,6 +583,7 @@ hybridclient.naiadsystems.com
 i-666.b-0.ad.bench.utorrent.com
 i-sdk.mediation.unity3d.com
 i.mxplayer.j2inter.com
+i2psm3knof5qjjix.v.3dns.vip
 iadsdk.apple.com
 identify.hotjar.com
 ih4bsf-cdn-settings.appsflyersdk.com
@@ -700,6 +706,7 @@ mta11-1.directcrm.ru
 mta2.directcrm.ru
 mta4.directcrm.ru
 mta9-1.directcrm.ru
+mtckundigepwu3up.v.3dns.vip
 mum.alibabachengdun.com
 mvconf.f.360.cn
 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -1055,6 +1062,7 @@ ut.qwen.ai
 utbench.utorrent.com
 utoken.umeng.com
 uxip.meizu.com
+v.3dns.vip
 vast.ufouxbwn.com
 venetia.iad.appboy.com
 verifi.podscribe.com
