@@ -148,3 +148,4 @@ www.pochta.ru##section.Box-sc-7ax6ia-0.iXLXZb:nth-of-type(7)
 www.pochta.ru##[src*="\/assets\/Pers_Account_x1_1_1_f05c99a6b9\.png"]
 www.pochta.ru##[src*="\/assets\/Banner_Otkrytki_veb_f842521def\.png"]
 www.pochta.ru##.GridBox-sc-a3sce5-0.sc-528b411-4.lcGReb.jleOdu
+www.pochta.ru##[href*="https\:\/\/podpiska\.pochta\.ru\/collection\/new_knowledge"] > picture > [src*="about\:blank"]
