@@ -151,3 +151,6 @@ www.pochta.ru##.GridBox-sc-a3sce5-0.sc-528b411-4.lcGReb.jleOdu
 www.pochta.ru##[href*="https\:\/\/podpiska\.pochta\.ru\/collection\/new_knowledge"] > picture > [src*="about\:blank"]
 wotplay.com##.wp-house.relative.flex.w-full.items-center.gap-3.overflow-hidden.rounded-xl.border.px-3.py-2\.5.transition-shadow.hover\:shadow-lg.sm\:gap-4.sm\:px-4.sm\:py-3\.5.border-sky-500\/30.bg-\[linear-gradient\(110deg\,rgba\(56\,189\,248\,0\.16\)\,rgba\(129\,140\,248\,0\.12\)\,rgba\(56\,189\,248\,0\.16\)\)\]
 
+www.pochta.ru##[href*="https\:\/\/podpiska\.pochta\.ru\/collection\/new_knowledge"] > picture > [src*="about\:blank"]
+wotplay.com##.wp-house.relative.flex.w-full.items-center.gap-3.overflow-hidden.rounded-xl.border.px-3.py-2\.5.transition-shadow.hover\:shadow-lg.sm\:gap-4.sm\:px-4.sm\:py-3\.5.border-sky-500\/30.bg-\[linear-gradient\(110deg\,rgba\(56\,189\,248\,0\.16\)\,rgba\(129\,140\,248\,0\.12\)\,rgba\(56\,189\,248\,0\.16\)\)\]
+www.pochta.ru###tracking_right_history > [href*="https\:\/\/www\.pochta\.ru\/shipment"] > picture > [src*="about\:blank"]
