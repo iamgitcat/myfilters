@@ -466,6 +466,7 @@ edge.ads.twitch.tv
 ee1-hangup.palmplaystore.com
 ee1-tms2.palmplaystore.com
 egv4py1c-android.mobile-messenger.intercom.com
+embeds.beehiiv.com
 ep1.adtrafficquality.google
 errnewlog.umeng.com
 errnewlogos.umeng.com
