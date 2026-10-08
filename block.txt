@@ -78,6 +78,7 @@ a.adspector.io
 a.kupibilet.ru
 a.utraff.com
 a.wb.ru
+a1.api.bbc.co.uk
 aa.online-metrix.net
 aax-eu.amazon-adsystem.com
 abp.telemetry.adblockplus.org
@@ -338,6 +339,7 @@ ce3e75d5.jpush.cn
 ced-ns.sascdn.com
 ced.sascdn.com
 census-app.scorecardresearch.com
+centralus-2.in.applicationinsights.azure.com
 cfg.imtt.qq.com
 champagne.futurecdn.net
 check-tcp.rayjump.com
@@ -444,6 +446,7 @@ dsc-test.shalltry.com
 dsp.mpartner.digital
 dss.hybrid.ai
 e2c16.gcp.gvt2.com
+e2c44.gcp.gvt2.com
 e2c52.gcp.gvt2.com
 e2c54.gcp.gvt2.com
 e2c56.gcp.gvt2.com
@@ -561,6 +564,7 @@ grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
 grubbytrain.com
+gslb.hpplay.cn
 gtm.mouseflow.com
 gum.criteo.com
 gw.mediation.unity3d.com
@@ -712,6 +716,7 @@ mtckundigepwu3up.v.3dns.vip
 mum.alibabachengdun.com
 mvconf.f.360.cn
 mxvp-feature-toggle-prod-1.zenmxapps.com
+mybbc-analytics.files.bbci.co.uk
 mytop.live.vkvideo.ru
 navvy.media.net
 nelreports.net
@@ -784,6 +789,7 @@ pbs.alfasense.com
 phosphor-pa.googleapis.com
 pi.reddit.com
 pia.appsflyersdk.com
+ping.chartbeat.net
 pixel-config.reddit.com
 pixel.dsp.onetarget.ru
 pixel.facebook.com
@@ -947,6 +953,7 @@ static.ads-twitter.com
 static.ads.brave.com
 static.aio.media
 static.cdn.admatic.com.tr
+static.chartbeat.com
 static.cloudflareinsights.com
 static.criteo.net
 static.doubleclick.net
@@ -980,6 +987,7 @@ t-ring-s.msedge.net
 t-ring-s2.msedge.net
 t.adx.opera.com
 t.appsflyer.com
+t.hepelu.my
 t.pixai.art
 t.rtbwave.com
 tab.volces.com
@@ -1027,6 +1035,7 @@ tracker.leechers-paradise.org
 tracking-app.diginetica.net
 tracking.appmetrica.yandex.net
 tracking.diginetica.net
+tracking.epicgames.com
 tracking.ott.yandex.net
 tracking.rus.miui.com
 trheoi-cdn-settings.appsflyersdk.com
@@ -1074,6 +1083,7 @@ video-edge-4b5ae9.sjc05.hls.live-video.net
 video-edge-53a845.sjc05.hls.live-video.net
 video-edge-bf9207.sjc05.hls.live-video.net
 videofarm.daum.net
+vipauth.hpplay.cn
 visor.sberbank.ru
 vk-analytics.ru
 vkcache.com
