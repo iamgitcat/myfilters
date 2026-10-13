@@ -302,6 +302,7 @@ cdn-settings.segment.com
 cdn-test.mouseflow.com
 cdn.adfinity.pro
 cdn.adsninja.ca
+cdn.advertronic.io
 cdn.al-adtech.com
 cdn.betweendigital.com
 cdn.bitmedianetwork.com
@@ -414,6 +415,7 @@ d.impactradius-event.com
 d0.mradx.net
 d2v02itv0y9u9t.cloudfront.net
 d34r8q7sht0t9k.cloudfront.net
+d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 dap.digitalgov.gov
 data-dda7d24eb2.derstandard.at
 data-events.cdn.viber.com
@@ -634,6 +636,7 @@ kraken.rambler.ru
 kumo.network-n.com
 kvinit-prod.api.kochava.com
 l.getsitecontrol.com
+lander-events-api.c4s-rd.services
 launcher.spot.im
 launches.appsflyer.com
 launches.appsflyersdk.com
@@ -1065,6 +1068,7 @@ umengjmacs.m.taobao.com
 umid.orion.meizu.com
 unif-id.ssp.inmobi.com
 upload.luckyorange.net
+us-east-1.hightouch-events.com
 usa.ime.cdn.cootekservice.com
 usa.ime.cootek.com
 usage.trackjs.com
