@@ -435,6 +435,7 @@ ddacn6pr5v0tl.cloudfront.net
 default.exp-tas.com
 deff.nelreports.net
 device.maxmind.com
+dezacibesodexi.com
 diagnostics.id5-sync.com
 dicardo.com
 direct.yandex.ru
@@ -452,6 +453,7 @@ e2c44.gcp.gvt2.com
 e2c52.gcp.gvt2.com
 e2c54.gcp.gvt2.com
 e2c56.gcp.gvt2.com
+e2c62.gcp.gvt2.com
 e2c71.gcp.gvt2.com
 e2c81.gcp.gvt2.com
 e2c82.gcp.gvt2.com
@@ -851,6 +853,7 @@ rtb-1.xxxshake.com
 rtb-2.xgroovy.com
 rtb-6.anysex.com
 rtb-6.mylust.com
+rtb-6.xgroovy.com
 rtb-6.xxxshake.com
 rtb-eu-warsaw.intent.ai
 rtb.dynotech.io
@@ -864,6 +867,7 @@ s.amazon-adsystem.com
 s.dtmtdc.com
 s.jpush.cn
 s.uuidksinc.net
+s1.bss.2gis.com
 s3t3d2y9.afcdn.net
 sad.adsgram.ai
 samsung-com.112.2o7.net
@@ -1133,6 +1137,7 @@ x.cnt.my
 x.everestop.io
 x.thecatmachine.com
 x01.aidata.io
+xml.opera.com
 xray.mail.ru
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
