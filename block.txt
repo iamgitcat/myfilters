@@ -115,6 +115,7 @@ adm.hotjar.com
 ads-api.tiktok.com
 ads-api.twitter.com
 ads-api.x.com
+ads-m.rustore.ru
 ads-sg.tiktok.com
 ads.adfox.ru
 ads.adthrive.com
