@@ -228,6 +228,7 @@ app.comagic.ru
 app.eduseio.com
 app.getsentry.com
 app.uaas.yandex.ru
+applog.lc.quark.cn
 applovin.com
 applvn.com
 appmetrica.yandex.ru
@@ -240,6 +241,7 @@ at.atwola.com
 ats-wrapper.privacymanager.io
 attr.appsflyersdk.com
 auction.unityads.unity3d.com
+audid-api.taobao.com
 audid.umeng.com
 autocomplete.diginetica.net
 ax.amnezia.org
@@ -553,6 +555,7 @@ geo.ads.brave.com
 geo.yahoo.com
 geolocation.onetrust.com
 get.daum.net
+gjapplog.ucweb.com
 glitter.services.disqus.com
 globalapi.ad.xiaomi.com
 gnezdo.ru
@@ -725,6 +728,7 @@ mta4.directcrm.ru
 mta9-1.directcrm.ru
 mtckundigepwu3up.v.3dns.vip
 mum.alibabachengdun.com
+mum.alibabachengdun.net
 mvconf.f.360.cn
 mxvp-feature-toggle-prod-1.zenmxapps.com
 mybbc-analytics.files.bbci.co.uk
@@ -826,6 +830,7 @@ pubads.g.doubleclick.net
 public.profitwell.com
 pulse.jpush.cn
 pv-track.pxtrkapp.com
+px-intl.ucweb.com
 px.adhigh.net
 px.ads.linkedin.com
 px.arcspire.io
