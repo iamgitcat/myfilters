@@ -158,3 +158,4 @@ www.pochta.ru###tracking_right_history > [href*="https\:\/\/www\.pochta\.ru\/shi
 www.seaart.ai##.list
 www.seaart.ai##.lazy-component-container.imgpage-related > div:nth-of-type(1)
 www.seaart.ai##.comment-empty
+wotplay.com###qc-cmp2-persistent-link
