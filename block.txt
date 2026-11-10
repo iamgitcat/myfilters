@@ -794,7 +794,6 @@ p2-play.edge4k.com
 paa-reporting-advertising.amazon
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
-palm.tech
 palmplaystore.com
 pangolin16.isnssdk.com
 partiality.itunes.apple.com
