@@ -19,6 +19,7 @@
 25112.ms.vk.ru
 2526323--6246566-111-mnews.ms.vk.com
 2542116.fls.doubleclick.net
+28yw0a.ru
 2no.co
 30094219-8579-496a-b01b-a4c5f1cbf8cc-netseer-ipaddr-assoc.xy.fbcdn.net
 30094219-8579-496a-b01b-a4c5f1cbf8cc-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -184,8 +185,10 @@ analytics.yahoo.com
 analyticsengine.s3.amazonaws.com
 api-ad-adapter.wps.com
 api-adservices.apple.com
+api-an.tutu.ru
 api-flow.flyme.cn
 api-fp-retry-bj.fengkongcloud.com
+api-x.tutu.ru
 api.a.mts.ru
 api.ad.xiaomi.com
 api.amplitude.com
@@ -235,6 +238,7 @@ applvn.com
 appmetrica.yandex.ru
 appsflyer.com
 apptracer.ru
+arc.msn.com
 assets.adobedtm.com
 assets.iterable.com
 assets.polarbyte.com
@@ -319,6 +323,7 @@ cdn.consentmanager.mgr.consensu.org
 cdn.consentmanager.net
 cdn.cookielaw.org
 cdn.diginetica.net
+cdn.digitalcaramel.com
 cdn.dmtgvn.com
 cdn.dsp-rambler.ru
 cdn.iads.unity3d.com
@@ -634,6 +639,7 @@ iplis.ru
 iplog.co
 iplogger.org
 ipv4.podscribe.com
+ire-oneid.shalltry.com
 irl.appnext.com
 izatcloud.net
 jpush.cn
