@@ -667,6 +667,7 @@ live.chartboost.com
 live365.com
 livechatv2.chat2desk.com
 ln-ring.msedge.net
+location.microsoft.com
 locationhistory-pa.googleapis.com
 locationhistoryplacedetails-pa.googleapis.com
 log-global.aliyuncs.com
