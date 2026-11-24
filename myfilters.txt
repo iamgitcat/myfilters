@@ -162,3 +162,6 @@ wotplay.com###qc-cmp2-persistent-link
 wotplay.com###qc-cmp2-persistent-link
 ru.pinterest.com##.box_k.paddingY300_1u.rounding4_j.xsDisplayFlex_k
 ru.pinterest.com##.box_k.flexGrow_K.justifyCenter_K.paddingX300_1u.paddingY300_1u.secondary_k.xsDisplayFlex_k.xsItemsCenter_K
+naked-science.ru##div.other-news-block.sidebar-block.shesht-info-block:nth-of-type(2)
+naked-science.ru##div.other-news-block.sidebar-block.shesht-info-block:nth-of-type(3) > .sidebar-block-items.shesht-info-block__items > .sidebar-block-item.shesht-info-block__item > .animate-custom.opacity-custom.grid.shesht-info-block__link
+naked-science.ru##div.other-news-block.sidebar-block.shesht-info-block:nth-of-type(3)
