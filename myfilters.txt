@@ -165,3 +165,14 @@ ru.pinterest.com##.box_k.flexGrow_K.justifyCenter_K.paddingX300_1u.paddingY300_1
 naked-science.ru##div.other-news-block.sidebar-block.shesht-info-block:nth-of-type(2)
 naked-science.ru##div.other-news-block.sidebar-block.shesht-info-block:nth-of-type(3) > .sidebar-block-items.shesht-info-block__items > .sidebar-block-item.shesht-info-block__item > .animate-custom.opacity-custom.grid.shesht-info-block__link
 naked-science.ru##div.other-news-block.sidebar-block.shesht-info-block:nth-of-type(3)
+www.pochta.ru##[href*="https\:\/\/www\.pochta\.ru\/person\/letters\/delivery-protect"] > picture > [src*="about\:blank"]
+www.pochta.ru##[src*="\/resize\/assets\/q4f4_ezp_b2c_2026_11_16_main_x2_47910bf6b0\.png\?w\=1920\&q\=75"]
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-88f81981-0.dvTpFT.cUXhlk > .swiper.swiper-initialized.swiper-horizontal.swiper-android.swiper-backface-hidden > .swiper-wrapper > .swiper-slide.swiper-slide-active > .PageContainer-sc-1d3tiqt-0.sc-88f81981-2.gfRLEg.gMsHwf > .GridBox-sc-a3sce5-0.sc-88f81981-3.fUWoer.ghhTTy > .GridBox-sc-a3sce5-0.tCZAP > .Box-sc-7ax6ia-0.sc-88f81981-4.dvTpFT.kTtQJp > span
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-88f81981-0.dvTpFT.cUXhlk > .swiper.swiper-initialized.swiper-horizontal.swiper-android.swiper-backface-hidden > .swiper-wrapper > .swiper-slide.swiper-slide-active > .PageContainer-sc-1d3tiqt-0.sc-88f81981-2.gfRLEg.gMsHwf > .GridBox-sc-a3sce5-0.sc-88f81981-3.fUWoer.ghhTTy > .GridBox-sc-a3sce5-0.eJuSKZ
+www.pochta.ru##.Box-sc-7ax6ia-0.sc-88f81981-0.dvTpFT.cUXhlk > .swiper.swiper-initialized.swiper-horizontal.swiper-android.swiper-backface-hidden
+www.pochta.ru##div.Box-sc-7ax6ia-0.lhbrBu:nth-of-type(1) > .PageContainer-sc-1d3tiqt-0.gfRLEg > .Box-sc-7ax6ia-0.fDZShb
+www.pochta.ru##.Box-sc-7ax6ia-0.jtPQUM
+www.pochta.ru##.PageContainer-sc-1d3tiqt-0.jKpzOH > .Box-sc-7ax6ia-0.fDZShb
+www.pochta.ru##[src*="https\:\/\/www\.pochta\.ru\/assets\/1116_px_8e2ce9d98e_2_c927e5b90e\.svg"]
+www.pochta.ru###main_bottom_under_slider
+www.pochta.ru###traking-page
